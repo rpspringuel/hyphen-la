@@ -7,3 +7,4 @@ Resources
 - https://tug.org/TUGboat/tb13-1/tb34becc.pdf
 - https://tug.org/TUGboat/tb15-1/tb42becc-ancient.pdf
 - https://tug.org/TUGboat/tb13-4/tb37hara-hyfgl.pdf
+- http://www.guitex.org/home/images/ArsTeXnica/AT018/GreekLatinHyphens.pdf (starting from page 7)
