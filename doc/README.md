@@ -2,6 +2,25 @@
 
 This directory contains some documentation about Latin hyphenation.
 
+## General considerations
+
+Several aspects of the Latin language make hyphenation consensus difficult to find. The main difficulty is that Latin has been written and pronunced in various ways in different times and places, and thus has been hyphenated in different ways.
+
+A good hyphenation system should consider the following criteria:
+
+- _usage:_ when people are used to a certain hyphenation, any other hyphenation will look strange
+- _phonology:_ hyphenation should make sense in syllable segmentation, based on phonology
+- _grammar:_ it should also respect grammar
+- _ethymology:_ ethymology can also be a criteria in some cases
+- _typography:_ some hyphenations that would make sense for other criteria don't from a typographical point of view (typically after the first letter or before the last one)
+- _type of text:_ a chant is not hyphenated the same way as a regular text (quon-i-am in chant, quon-iam in prose)
+
+All these criteria conflict with each other, and a balance is difficult to find.
+
+## Hyphenation in Liturgical texts
+
+Until Vatian II council, the Vatican required texts to be hyphenated in the "medieval" (post-4th century CE) way, but after Vatican II this rule seems less strict, and Solesmes got an oral authorization to use the phonetical patterns, which were used before 4th century and are easier to read. Solesmes cautiously used the phonetical patterns in their recent books.
+
 ## Useful Links
 - http://www.ccwatershed.org/blog/2014/feb/13/how-hyphenate-latin-words/
 

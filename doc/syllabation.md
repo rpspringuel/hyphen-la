@@ -11,10 +11,15 @@ The book is in the public domain in all countries but France, in which this docu
 En latin, la limite de la syllabe se plaçait immédiatement après la voyelle (ou la diphtongue), lorsque celle-ci était suivie d'une autre voyelle ou d'une seule consonne. Lorsque la voyelle (ou la diphtongue) était suivie de deux consonnes ou d'une consonne géminée, l'élément consonantique était normalement partagé entre la syllabe précédente et la syllabe subséquente. Une exception n'était faite que pour la combinaison *occlusive* + *vibrante* ou *latérale* qui étaient rattachées toutes deux à la syllabe suivante. Enfin, de trois consonnes, la première et la deuxième appartenaient à la syllabe précédente, la troisième à la syllabe suivante, à moins que le groupe ne se terminât par une *occlusive* suivie d'une *vibrante* ou d'une *latérale*. Dans ce dernier cas, la coupe syllabique se produisait après la première des trois consonnes.
 
 On séparait ainsi:
+
 1.a. *de-a*, *me-us*, *a-er*, *co-egi*, *clo-aca*.
+
 1.b. *ca-do*, *pau-per*, *cae-cus*, *ro-sa*, *do-mus*, *si-nus*, *a-ra*, *cae-lum*.
+
 2.a. *ag-men*, *prop-ter*, *tec-tum*, *ip-se*, *aes-tas*, *pis-cis*, *am-bo*, *om-nis*, *pug-na*, *men-sa*, *or-do*, *pul-vis*, mais : *qua-drans*, *a-trox*, *fe-bris*, *su-pra*, *ae-gre*, *lu-crum*, *locu-ples*,
+
 2.b. *ag-ger*, *gib-bus*, *sic-cus*, *pos-sum*, *fer-re*, *il-le*, *sum-mus*, *an-nus*.
+
 3. *dex-ter*, *ins-tar*, *temp-to*, *sanc-tus*, mais *spec-trum*, *cas-tra*, *mem-brum*, *tem-plum*.
 
 Tel est du moins le procédé suivi dans les inscriptions les plus correctes qui reflète sans doute fidèlement la division phonétique. La méthode codifiée par les grammairiens romains à partir du IV<sup>e</sup> siècle de notre ère prescrit, il est vrai, de rattacher à la seconde syllabe tous les groupes de consonnes susceptibles de commencer un mot en séparant par ex. *a-sper*, *ae-stas*, *ca-stra*, *pu-gna*, parce que les groupes *sp*, *st*, *str*, *gn* figurent à l'initiale de mots tels que *spica*, *stella*, *strages*, *gnarus*. Mais ce ne sont là que des subtilités imaginaires, dépourvues de tout intérêt linguistique. S'il en fallait une preuve, on la trouverait dans le fait que les grammairiens préconisent même des syllabations comme *o-mnis*, *pro-pter*, *pe-ctus*, en invoquant l'exemple de mots comme *Mnestheus*, *Ptolemaeus*, *Ctesiphon*.
