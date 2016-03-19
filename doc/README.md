@@ -11,7 +11,7 @@ A good hyphenation system should consider the following criteria:
 - _usage:_ when people are used to a certain hyphenation, any other hyphenation will look strange
 - _phonology:_ hyphenation should make sense in syllable segmentation, based on phonology
 - _grammar:_ it should also respect grammar
-- _ethymology:_ ethymology can also be a criteria in some cases
+- _etymology:_ etymology can also be a criteria in some cases
 - _typography:_ some hyphenations that would make sense for other criteria don't from a typographical point of view (typically after the first letter or before the last one)
 - _type of text:_ a chant is not hyphenated the same way as a regular text (quon-i-am in chant, quon-iam in prose)
 

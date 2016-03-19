@@ -9,7 +9,7 @@ See [doc](../doc/) folder for more on the differences, and how to choose between
 
 ## Format
 
-The patterns are suites for [libhyphen](https://github.com/hunspell/hyphen) from the [Hunspell](https://hunspell.github.io/) sofware, and thus should be usable as is in:
+The patterns are in the format of [libhyphen](https://github.com/hunspell/hyphen) from the [Hunspell](https://hunspell.github.io/) sofware, and thus should be usable as is in:
 
 - LibreOffice/OpenOffice
 - Adobe products (InDesign, etc.)
