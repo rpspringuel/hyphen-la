@@ -6,7 +6,9 @@ See [patterns](patterns) directory for the different patterns.
 
 See [doc](doc) directory for some documentation.
 
-See [tests][tests] directory for some tests.
+See [tests](tests) directory for some tests.
+
+See [syllabifier](syllabifier) for a small python script using the patterns to hyphenate a text in a very simple way.
 
 
 ### Thanks
