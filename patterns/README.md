@@ -15,4 +15,4 @@ The patterns can be converted to [libhyphen](https://github.com/hunspell/hyphen)
 
 ## License
 
-The patterns are currently under the [LPPL](https://latex-project.org/lppl/).
+The patterns used to be under the [LPPL](https://latex-project.org/lppl/), but the author allows their distribution under BSD-3 licence, which is what we do here.
