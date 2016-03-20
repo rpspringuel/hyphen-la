@@ -6,7 +6,7 @@ It has many options, but an interesting feature is that it can add `()` automati
 
 ## Dependencies
 
-The script depends on Python 3, and [pyphen](http://pyphen.org/), that's all!
+The script depends on Python 3, and [pyphen](http://pyphen.org/). Note that you must have generated the patterns for libhyphen in order for the script to work. See [../patterns/README.md](documentation).
 
 ## Installation
 
