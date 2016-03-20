@@ -1,0 +1,3 @@
+[submodule "patterns/hyphen"]
+	path = patterns/hyphen
+	url = https://github.com/hunspell/hyphen.git
