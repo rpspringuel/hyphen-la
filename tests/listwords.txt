@@ -14,6 +14,7 @@ abstemius
 abstinere
 abstrahere
 abstulerunt
+abundanter
 accepta
 acceptam
 adoremus
@@ -28,6 +29,7 @@ agmen
 agnasci
 agno
 agrus
+Alexander
 altus
 ambigere
 ambo
@@ -86,6 +88,7 @@ crastina
 creare
 crescamus
 crucifixus
+custos
 cycnus
 dea
 descendere
@@ -222,6 +225,7 @@ pauper
 pectus
 pentecostes
 peribunt
+periculum
 permansisti
 Petrus
 philosophus
