@@ -1,5 +1,6 @@
 abacus
 abitus
+ablego
 abripio
 abscedere
 abscidere
@@ -67,6 +68,7 @@ cado
 caecus
 caelum
 calestis
+cælestis
 castos
 castra
 cavædium
@@ -221,6 +223,7 @@ osculatæ
 pascuæ
 pater
 patres
+patri
 pauper
 pectus
 pentecostes
