@@ -21,6 +21,7 @@ acceptam
 adoremus
 adscribere
 aegre
+aeneus
 Ægyptum
 aequitas
 aer
@@ -250,7 +251,9 @@ proscænium
 prospectus
 prostare
 protectorem
+præest
 præfatio
+præsum
 publicus
 pugna
 pugna
