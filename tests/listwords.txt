@@ -266,6 +266,7 @@ quinquennium
 quoniam
 quotan
 quousque
+quum
 rectae
 redarguere
 redarguo
