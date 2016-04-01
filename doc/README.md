@@ -17,6 +17,10 @@ A good hyphenation system should consider the following criteria:
 
 All these criteria conflict with each other, and a balance is difficult to find.
 
+## Hyphenation rules
+
+An attempt has been made to summarize the hyphenation rules in [phonetic-rules.md](phonetic-rules.md).
+
 ## Hyphenation in Liturgical texts
 
 Until Vatian II council, the Vatican required texts to be hyphenated in the "medieval" (post-4th century CE) way, but after Vatican II this rule seems less strict, and Solesmes got an oral authorization to use the phonetical patterns, which were used before 4th century and are easier to read. Solesmes cautiously used the phonetical patterns in their recent books.
