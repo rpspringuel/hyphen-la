@@ -1,6 +1,6 @@
 # Latin hyphenation rules
 
-This document is the translation of a document transmitted by Solesmes, explaining the general rules of hyphenation they use, with some options and exceptions.
+This document is the translation of a document transmitted by Solesmes, explaining the general rules of hyphenation they use, with some options and exceptions. The rules correspond to the pronunciated adopted in the Church quite recently (50-100 years), but should be easy to adapt to other pronunciations.
 
 The document supposes that the diphtongues are clearly identified. A *liquid group* is defined here as one of the following: *pr*, *tr*, *cr*, *br*, *dr*, *gr*, *fr*, *pl*, *tl*, *cl*, *bl*, *dl* or *gl*.
 
@@ -36,9 +36,9 @@ These rules explain how to find the hyphenation point after a syllable according
 
 The following rules are about specific case that do not follow the general rules:
 
-- **ch, ph, th** are unbreakable blocks, hyphenation point is before this block.
+- **ch, ph, th** are unbreakable blocks as they correspond to *χ*, *φ* and *θ*, hyphenation point is before this block.
 	- Ex: *ma-china*, *ele-phantus*, *epi-thalamus*, *es-chato*, *Erech-theum*.
-	- Etymological exceptions are extremely rare, but *post-hac* is one of them.
+	- Exceptions are extremely rare, but *post-hac* is one of them.
 - **gn** is one block, hyphenation point is before.
 	- Ex: *re-gnum*, *i-gnis*, *di-gnus*.
 	- There seems to be no exception to this rule.
