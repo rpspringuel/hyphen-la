@@ -37,6 +37,8 @@ def dotest(filename, allhyphens=True):
 
 dotest('proofreading-Solesmes-1.txt')
 print('\n')
+dotest('proofreading-Solesmes-2.txt')
+print('\n')
 dotest('proofreading-Flavigny-text-1.txt')
 print('\n')
 dotest('orberg.txt', False)
