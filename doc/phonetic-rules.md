@@ -64,6 +64,16 @@ These are not exceptions to the general rules, but cases to handle cautiously.
 - **ngu where u is a full vowel:** *lan-gu-i*, *lan-gu-e-re*, *stran-gu-lo*, *fran-gun-tur*.
 
 
+## Understanding exceptions
+
+There is obviously no strict rule for etymological exceptions, but these rules will certainly help:
+
+- **preverbs:** when a preverb is present, the hyphenation point is after the preverb in simple cases: *ab-scindo*.
+- **fused preverbs:** when a preverb is fused with the radix, the priority is given to the radix, ex: *trans+scribo* = *tran-scribo*.
+- **epenthesis:** hyphenation is usually done after the epenthesis: *prod-eo*.
+- **enclitic:** words ending with an enclitic should be hyphenated before the enclitic (to be confirmed!).
+
+
 ## Optional rules
 
 Somes hyphenation rules are found in some liturgical books but are not kept by Solesmes:

@@ -21,12 +21,19 @@ ca-do
 cas-tra
 con-spi-ci-o % ét
 con-strin-go % ét
+cum-scri-bil-lo
 cæ-cus
 de-stru-o % ét
 dex-ter
 dex-trum
 di-e-i
 di-gnus
+dis-cre-pen-ti-a
+dis-cre-pi-to
+dis-cre-po
+dis-cri-men
+dis-cri-mi-no
+dis-cru-cio
 du-plex
 du-xi
 e-gu-e-runt
@@ -43,12 +50,18 @@ ele-phantus
 epi-tha-la-mus
 es-ca
 es-cha-to
+ex-e-o
+ex-em-plar
+ex-em-plum
+ex-i-guus
+ex-scre-o
 fe-bris
 fran-gun-tur
 gau-de
 ha-ru-spex % ét
 i-gnis
 il-le
+in-dis-cre-tus
 is-chi-as
 lan-gu-e-re
 lan-gu-i
@@ -69,16 +82,21 @@ ob-stre-po % ét
 ob-œdire % ét
 om-nis
 per-eo % ét
+per-scru-ta-ti-o
+per-scru-to
+per-scru-tor
 pos-se
 post-hac % ét
 pot-ens % ét
 prod-it % ét
 prop-ter,
+pæn-in-su-la
 qua-dru-plum
 re-gnum
 re-spi-ce % ét
 re-splen-de-o % ét
 re-sti-tu-to % ét
+red-e-o
 red-emptor % ét
 san-guis
 sanc-tus
@@ -88,10 +106,12 @@ spec-trum
 stran-gu-lo
 sub-igo % ét
 sub-li-mis % ét
+sub-scri-bo
 tec-tum
 tem-plum
 temp-to
 tra-ho
+tran-scri-bo % ét
 trans-por-to % ét
 trans-trum % ét
 ve-ho
