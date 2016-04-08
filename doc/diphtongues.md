@@ -4,7 +4,7 @@ This document gathers some rules about diphtongues desmabiguation. It is not exh
 
 ## Introduction.
 
-The usual explanation about diphtongues does not consider the semi-vowel *u* after *g* or *q* to start diphtongues, for example *qui* is usually considered as consonant *qu* + vowel *i*, not consonant *q* + diphtongue *ui*. This is a rather arbitrary choice, but we will follow it as it seems the be the most usual convention.
+The usual explanation about diphtongues does not consider the semi-consonnant *u* after *g* or *q* to start diphtongues, for example *qui* is usually considered as consonant *qu* + vowel *i*, not consonant *q* + diphtongue *ui*. This is a rather arbitrary choice, but we will follow it as it seems the be the most usual convention. The semi-consonnant *i* (*j*) is also not usually conceptualized as part of a diphtongue (*iam*).
 
 As we are mostly focused on Liturgical latin where diphtongues *ae* and *oe* are noted *æ* and *œ* and thus do not constitute ambiguities in liturgical texts, we will not consider them.
 
@@ -15,6 +15,7 @@ With this in mind, Latin has only few possible diphtongues:
 - *ui* (main vowel *u*, short *i*)
 - *ei* (main vowel *e*, short *i*)
 - *ou* (main vowel *o*, short *u*)
+- *ay* (main vowel *a*, short *y*)
 
 which means that *ai* and *oy* are never diphtongues.
 
@@ -28,6 +29,10 @@ A good starting point for the study of diphtongues in Latin is *Vox Latina* by W
 
 A sequence of two vowels is never a diphtongue when the second one comes from a desinence: *me-us*, *e-unt*, *aure-us*. See *ei* for an exception to this rule.
 
+#### ay
+
+*ay* is obviously quite rare but always a diphtongue (*Raymundus*).
+
 #### ou
 
 *ou* is a diphtongue only in *prout*, which makes it the easiest case.
@@ -40,7 +45,7 @@ A sequence of two vowels is never a diphtongue when the second one comes from a 
 
 *eu* is a case with many rules:
 
-- in pure Latin, the only words with *eu* as a diphtongue are *ceu*, *seu*, *neu* and the intejections *heu* and *heus*
+- in pure Latin, *eu* can be a dipthongue only after *c*, *s* or *n* (*neuter*, *seu*), and in the intejections *heu!* and *heus!*
 - *eu* is a diphtongue in Greek words: *Europa*, *Orpheus*, *euge*, *eunuchus*
 
 #### ui
@@ -49,4 +54,4 @@ A sequence of two vowels is never a diphtongue when the second one comes from a 
 
 #### ei
 
-*ei* is quite rare as a diphtongue: *deinde*, *deinc*, *anteit*, *reice*, *aureis*. It is a diphtongue in the 5th declension contracted genitive and dative singular forms: *rei*.
+*ei* is quite rare as a diphtongue: *hei!*, *deinde*, *deinc*, *anteit*, *reice*, *aureis*. It is a diphtongue in the 5th declension contracted genitive and dative singular forms: *rei*.
