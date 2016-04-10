@@ -1,5 +1,6 @@
 a-go
 a-gro
+a-it
 a-scy-ron
 a-sper-ges % ét
 a-strin-go % ét
@@ -17,10 +18,13 @@ ag-men
 an-ti-quus
 ar-gu-o
 ar-gu-unt
+au-tem
+bo-um
 ca-do
 cas-tra
 con-spi-ci-o % ét
 con-strin-go % ét
+con-tra-i-re
 cum-scri-bil-lo
 cæ-cus
 de-stru-o % ét
@@ -39,6 +43,7 @@ du-xi
 e-gu-e-runt
 e-gu-i
 e-i
+e-ius
 e-o-a
 e-qui
 e-rat
@@ -58,19 +63,26 @@ ex-scre-o
 fe-bris
 fran-gun-tur
 gau-de
+gau-de
 ha-ru-spex % ét
 i-gnis
+iam
+Ie-sus
 il-le
 in-dis-cre-tus
 is-chi-as
+Is-ra-el
 lan-gu-e-re
 lan-gu-i
 lan-gue-o
 lan-gues-co
+lau-do
 lec-ti-ster-ni-um % ét
 lin-gua,
 ma-china
 mem-brum
+Mo-y-ses
+nin-gu-it
 no-sce
 no-scit
 nos-co
@@ -81,25 +93,31 @@ ob-ru-o % ét
 ob-stre-po % ét
 ob-œdire % ét
 om-nis
+pe-ius
 per-eo % ét
 per-scru-ta-ti-o
 per-scru-to
 per-scru-tor
+po-e-ti-ca
 pos-se
 post-hac % ét
 pot-ens % ét
+pro-ut
 prod-it % ét
 prop-ter,
 pæn-in-su-la
 qua-dru-plum
+Ray-mun-dus
 re-gnum
 re-spi-ce % ét
 re-splen-de-o % ét
 re-sti-tu-to % ét
 red-e-o
 red-emptor % ét
+Sa-ul
 san-guis
 sanc-tus
+Sau-lus
 se-quun-tur
 sim-plex
 spec-trum
@@ -116,3 +134,4 @@ trans-por-to % ét
 trans-trum % ét
 ve-ho
 vi-a
+vir-gi-ne-um
