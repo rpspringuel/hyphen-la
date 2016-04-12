@@ -27,6 +27,8 @@ con-strin-go % ét
 con-tra-i-re
 cum-scri-bil-lo
 cæ-cus
+cu-ius
+cui
 de-stru-o % ét
 dex-ter
 dex-trum
@@ -52,19 +54,23 @@ e-scis
 e-scæ
 e-æ
 ele-phantus
+e-o-rum
 epi-tha-la-mus
 es-ca
 es-cha-to
+euge
+Europa
 ex-e-o
 ex-em-plar
 ex-em-plum
 ex-i-guus
 ex-scre-o
 fe-bris
+fi-li-i
 fran-gun-tur
 gau-de
-gau-de
 ha-ru-spex % ét
+huic
 i-gnis
 iam
 Ie-sus
@@ -80,6 +86,7 @@ lau-do
 lec-ti-ster-ni-um % ét
 lin-gua,
 ma-china
+me-i
 mem-brum
 Mo-y-ses
 nin-gu-it

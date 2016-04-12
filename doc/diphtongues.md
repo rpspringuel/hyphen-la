@@ -2,6 +2,8 @@
 
 This document gathers some rules about diphtongues desmabiguation. It is not exhaustive though, and in case of doubt, looking up the word in a dictionnary indicating diphtongues is necessary.
 
+Note that the document is only relevant to the modern ecclesiastic pronunciation of the prose: some hymns contain diphtongues or even triphtongues for the sake of metrics, and some diphtongues disappeared with the pronunciation reform of the XIXth century. The main source for this document is the *Liber Usualis* by Solesmes, 1961.
+
 ## Introduction.
 
 The usual explanation about diphtongues does not consider the semi-consonnant *u* after *g* or *q* to start diphtongues, for example *qui* is usually considered as consonant *qu* + vowel *i*, not consonant *q* + diphtongue *ui*. This is a rather arbitrary choice, but we will follow it as it seems the be the most usual convention. The semi-consonnant *i* (*j*) is also not usually conceptualized as part of a diphtongue (*iam*).
@@ -12,12 +14,11 @@ With this in mind, Latin has only few possible diphtongues:
 
 - *au* (main vowel *a*, short *u*)
 - *eu* (main vowel *e*, short *u*)
-- *ui* (main vowel *u*, short *i*)
 - *ei* (main vowel *e*, short *i*)
-- *ou* (main vowel *o*, short *u*)
+- *ui* (main vowel *u*, short *i*)
 - *ay* (main vowel *a*, short *y*)
 
-which means that *ai* and *oy* are never diphtongues.
+which means that *ou*, *ai* and *oy* are never diphtongues.
 
 Except in modern composition, Latin has no triphtongue (the neologism maieutica could be considered one).
 
@@ -27,15 +28,11 @@ A good starting point for the study of diphtongues in Latin is *Vox Latina* by W
 
 #### general rules
 
-A sequence of two vowels is never a diphtongue when the second one comes from a desinence: *me-us*, *e-unt*, *aure-us*. See *ei* for an exception to this rule.
+A sequence of two vowels is never a diphtongue when the second one comes from a desinence: *me-us*, *e-unt*, *aure-us*.
 
 #### ay
 
-*ay* is obviously quite rare but always a diphtongue (*Raymundus*).
-
-#### ou
-
-*ou* is a diphtongue only in *prout*, which makes it the easiest case.
+*ay* is rare but always a diphtongue (*Raymundus*).
 
 #### au
 
@@ -50,8 +47,13 @@ A sequence of two vowels is never a diphtongue when the second one comes from a 
 
 #### ui
 
-*ui* is very rarely a dipthongue: *cui* and *huic* are the most common examples.
+*ui* is used as a diphtongue only by some Abbeys not respecting the pronunciation reform: *cui* and *huic* are the most common examples.
 
 #### ei
 
-*ei* is quite rare as a diphtongue: *hei!*, *deinde*, *deinc*, *anteit*, *reice*, *aureis*. It is a diphtongue in the 5th declension contracted genitive and dative singular forms: *rei*.
+*ei* is a diphtongue only in the interjection *hei!*.
+
+
+## Disambiguation of sequences of vowels
+
+The only ambiguity for sequence of vowels seems to be *qui+vowel* and *gui+vowel*. For these, the rule seems to be to cut after the *i*, ex: *re-qui-em*.

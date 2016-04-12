@@ -19,7 +19,7 @@ All these criteria conflict with each other, and a balance is difficult to find.
 
 ## Hyphenation rules
 
-An attempt has been made to summarize the hyphenation rules in [phonetic-rules.md](phonetic-rules.md).
+An attempt has been made to summarize the hyphenation rules in [phonetic-rules.md](phonetic-rules.md). See also [diphtongues.md](diphtongues.md) for considerations on diphtongues.
 
 ## Hyphenation in Liturgical texts
 
