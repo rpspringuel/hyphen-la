@@ -47,7 +47,7 @@ at-que
 au-ferre
 au-fugere
 a-vertere
-caelum-i
+cælum-i
 circum-dare
 circum-silire
 col-loqui
@@ -197,7 +197,7 @@ oc-currere
 octin-genti
 of-ferre
 op-pugnare
-paen-insula
+pæn-insula
 per-currere
 per-cutere
 per-dere
@@ -214,12 +214,12 @@ per-venire
 pleri-que
 post-ea
 post-quam
-prae-esse
-prae-ferre
-prae-nomen
-prae-ponere
-prae-stare
-praeter-ea
+præ-esse
+præ-ferre
+præ-nomen
+præ-ponere
+præ-stare
+præter-ea
 pri-die
 prius-quam
 pro-cedere
