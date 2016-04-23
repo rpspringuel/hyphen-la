@@ -34,12 +34,17 @@ dex-ter
 dex-trum
 di-e-i
 di-gnus
+di-scin-do
+dis-cep-to
 dis-cre-pen-ti-a
 dis-cre-pi-to
 dis-cre-po
+di-scri-bo
 dis-cri-men
 dis-cri-mi-no
 dis-cru-cio
+di-spi-ci-o
+di-strin-go
 du-plex
 du-xi
 e-gu-e-runt
@@ -89,6 +94,7 @@ ma-china
 me-i
 mem-brum
 Mo-y-ses
+neu-ter
 nin-gu-it
 no-sce
 no-scit
