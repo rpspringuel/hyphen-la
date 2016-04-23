@@ -28,7 +28,7 @@ con-tra-i-re
 cum-scri-bil-lo
 cæ-cus
 cu-ius
-cui
+cu-i
 de-stru-o % ét
 dex-ter
 dex-trum
@@ -70,7 +70,7 @@ fi-li-i
 fran-gun-tur
 gau-de
 ha-ru-spex % ét
-huic
+hu-ic
 i-gnis
 iam
 Ie-sus
