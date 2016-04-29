@@ -42,7 +42,7 @@ dis-cre-po
 di-scri-bo
 dis-cri-men
 dis-cri-mi-no
-dis-cru-cio
+dis-cru-ci-o
 di-spi-ci-o
 di-strin-go
 du-plex
@@ -58,13 +58,12 @@ E-rech-the-um
 e-scis
 e-scæ
 e-æ
-ele-phantus
 e-o-rum
-epi-tha-la-mus
+e-pi-tha-la-mus
 es-ca
 es-cha-to
 euge
-Europa
+Eu-ro-pa
 ex-e-o
 ex-em-plar
 ex-em-plum
@@ -89,8 +88,8 @@ lan-gue-o
 lan-gues-co
 lau-do
 lec-ti-ster-ni-um % ét
-lin-gua,
-ma-china
+lin-gua
+ma-chi-na
 me-i
 mem-brum
 Mo-y-ses
@@ -107,7 +106,7 @@ ob-stre-po % ét
 ob-œdire % ét
 om-nis
 pe-ius
-per-eo % ét
+per-e-o % ét
 per-scru-ta-ti-o
 per-scru-to
 per-scru-tor
@@ -117,7 +116,7 @@ post-hac % ét
 pot-ens % ét
 pro-ut
 prod-it % ét
-prop-ter,
+prop-ter
 pæn-in-su-la
 qua-dru-plum
 Ray-mun-dus
@@ -126,7 +125,7 @@ re-spi-ce % ét
 re-splen-de-o % ét
 re-sti-tu-to % ét
 red-e-o
-red-emptor % ét
+red-emp-tor % ét
 Sa-ul
 san-guis
 sanc-tus
@@ -135,7 +134,7 @@ se-quun-tur
 sim-plex
 spec-trum
 stran-gu-lo
-sub-igo % ét
+sub-i-go % ét
 sub-li-mis % ét
 sub-scri-bo
 tec-tum
