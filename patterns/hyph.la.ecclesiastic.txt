@@ -337,6 +337,8 @@
 .pe2r3íe
 .pé2r3ii
 .pe2r3ímu
+.pe2r3ir
+.pe2r3ír
 .pe2r3ju
 .pe2r3or
 .pe2r3reg
@@ -414,8 +416,6 @@
 .qua2m3o2b3
 .que2m3a2d3m
 .quin2c3un
-.quo2n3i4a
-.quó2n3i4a
 .quo2t1an
 .quo2t1en
 .quo2t1i4e
