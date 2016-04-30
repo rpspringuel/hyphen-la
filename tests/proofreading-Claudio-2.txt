@@ -900,8 +900,10 @@ af-fér-ri
 af-fert
 Af-fér-te
 af-fér-tis
-áf-fe-runtaf-fí-ci-ent
-af-fí-giaf-fír-mans
+áf-fe-runt
+af-fí-ci-ent
+af-fí-gi
+af-fír-mans
 af-fu-ís-se
 áf-fu-it
 af-fúl-get
@@ -1322,7 +1324,6 @@ An-dré-æ
 An-dré-am
 An-dré-as
 an-ga-ri-a-vé-runt
-An-ge1o-rum
 An-ge-læ
 An-ge-lam
 án-ge-li
@@ -1816,7 +1817,8 @@ ar-ro-gan-ti-a
 ars
 ar-te
 ar-tem
-ar-ti-cu-loar-tis
+ar-ti-cu-lo
+ar-tis
 á-ru-i
 á-ru-it
 a-rún-di-ne
@@ -2345,7 +2347,8 @@ be-á-tam
 be-a-tá-rum
 be-á-tas
 be-á-te
-Be-á-tibe-á-tis
+Be-á-ti
+be-á-tis
 be-a-tís-si-ma
 be-a-tís-si-mæ
 be-a-tís-si-mam
@@ -3480,7 +3483,8 @@ cla-mó-ris
 cla-ra
 Cla-ræ
 cla-ré-sce-re
-cla-ré-scitcla-ri-tas
+cla-ré-scit
+cla-ri-tas
 clá-ri-tas
 cla-ri-tá-te
 cla-ri-tá-tem
@@ -3548,7 +3552,8 @@ clo-a-ca
 co-a-cer-vá-bunt
 co-ác-te
 co-a-du-ná-re
-co-a-du-ná-teco-æ-quás-ti
+co-a-du-ná-te
+co-æ-quás-ti
 co-æ-tá-ne-os
 co-æ-tér-num
 co-æ-tér-nus
@@ -3794,7 +3799,8 @@ co-mes
 co-mes-sa-ti-ó-nes
 co-mes-sa-ti-ó-ni-bus
 Co-mes-ti-bi-le
-co-me-tesco-mi-cus
+co-me-tes
+co-mi-cus
 co-mi-ta-bán-tur
 co-mi-tan-te
 co-mi-tan-ti-bus
@@ -4239,7 +4245,8 @@ con-fú-sus
 Con-fu-tá-tis
 con-gáu-det
 con-ge-le-tur
-cón-ge-rescon-gra-tu-la-bán-tur
+cón-ge-res
+con-gra-tu-la-bán-tur
 Con-gra-tu-lá-mi-ni
 cón-gre-ga
 con-gre-gá-bit
@@ -6809,7 +6816,6 @@ do-mi-nén-tur
 do-mi-né-tur
 Dó-mi-ni
 Do-mi-ni-ca
-Do-mi-ni-ca1is
 Do-mí-ni-cæ
 Do-mi-ni-ca-lem
 Do-mi-ni-ca-les
@@ -10893,7 +10899,8 @@ in-strú-e-ret
 ín-stru-i
 in-strú-i-te
 in-stru-men-to
-in-stru-men-tumín-su-læ
+in-stru-men-tum
+ín-su-læ
 ín-su-per
 in-su-pe-rá-bi-lis
 in-súr-gent
@@ -11579,7 +11586,8 @@ ius-su
 ius-ta
 ius-te
 ius-te
-Iús-tiIus-tí-na
+Iús-ti
+Ius-tí-na
 Ius-tí-næ
 Ius-tí-ni
 Ius-ti-nia-ni
@@ -13102,7 +13110,8 @@ mi-ra-ré-tur
 mi-rá-ri
 mi-rá-ti
 mi-rá-tus
-mi-ré-risMi-ro
+mi-ré-ris
+Mi-ro
 mi-ror
 mi-rum
 Mí-sa-ël
@@ -14767,7 +14776,8 @@ O-zí-am
 O-zí-as
 pá-bu-lo
 pa-ce
-pa-cempa-cis
+pa-cem
+pa-cis
 pac-tum
 Pa-du-a
 pæ-da-go-gó-rum
@@ -15980,8 +15990,10 @@ Pon-ti-a-ni
 Pon-ti-a-no
 Pon-ti-á-num
 pon-ti-fex
-pón-ti-fexPon-ti-fí-ci-bus
-pon-ti-fí-ci-umPón-ti-o
+pón-ti-fex
+Pon-ti-fí-ci-bus
+pon-ti-fí-ci-um
+Pón-ti-o
 Pon-tum
 pon-tus
 po-nunt
@@ -17314,7 +17326,8 @@ pur-gá-vit
 pur-gé-mur
 pur-gén-tur
 pur-ges
-pur-getpu-ri-ó-res
+pur-get
+pu-ri-ó-res
 pu-ris
 pu-rís-si-mæ
 pu-rís-si-mam
@@ -17949,7 +17962,9 @@ re-fer-tur
 ré-fe-runt
 re-fe-run-tur
 re-fí-ce-re
-re-fí-ci-amre-fí-ci-atre-for-má-bit
+re-fí-ci-am
+re-fí-ci-at
+re-for-má-bit
 re-for-má-mi-ni
 re-for-má-ri
 re-for-más-ti
@@ -18865,7 +18880,8 @@ sa-cri
 sa-cri-fí-ci-i
 sa-cri-fí-ci-is
 sa-cri-fí-ci-o
-sa-cri-fí-ci-umsa-cris
+sa-cri-fí-ci-um
+sa-cris
 sa-cris-ti-a
 sa-cris-ti-am
 sa-cro
@@ -18883,7 +18899,6 @@ sad-duc
 Sa-doc
 sæ-cli
 sæ-clum
-sæ-cu1i
 sæ-cu-la-res
 sæ-cu-lá-ri-a
 sæ-cu-lá-ri-bus
@@ -18991,7 +19006,8 @@ sal-vé-mur
 sal-vent
 sal-vet
 sal-vé-tur
-sál-visal-vis
+sál-vi
+sal-vis
 sal-vis-que
 sal-vo
 sal-vos
@@ -19141,7 +19157,8 @@ sa-tis-fá-ce-re
 sa-tis-fa-ci-en-di
 sa-tis-fac-ti-ó-ne
 sa-tis-fac-ti-ó-nis
-sa-tis-fac-tu-rossa-tó-rem
+sa-tis-fac-tu-ros
+sa-tó-rem
 sa-tu-ra-bí-mi-ni
 sa-tu-rá-bi-tur
 sa-tu-ra-bún-tur
@@ -20562,7 +20579,8 @@ suf-fert
 suf-fér-tis
 suf-fí-ce-re
 suf-fí-ci-at
-suf-fí-ci-untsuf-fo-cá-bat
+suf-fí-ci-unt
+suf-fo-cá-bat
 suf-fo-cán-tur
 suf-fo-cá-tus
 suf-fo-ca-vé-runt
@@ -20681,7 +20699,8 @@ su-pér-bis
 su-pér-bit
 su-per-bó-rum
 su-per-bus
-su-per-cí-li-umsu-per-e-mi-nén-tem
+su-per-cí-li-um
+su-per-e-mi-nén-tem
 su-per-e-ro-gá-ve-ris
 su-pe-res-se
 su-pe-rest
@@ -21541,7 +21560,8 @@ trans-fer-re
 trans-fer-ri
 trans-fer-tur
 Trans-fí-ge
-trans-fí-gitrans-fre-tás-sent
+trans-fí-gi
+trans-fre-tás-sent
 trans-fre-tá-vit
 trans-glu-ti-an-tur
 tráns-gre-di
@@ -22792,7 +22812,8 @@ vi-ves
 vi-vet
 vi-vé-tis
 vi-vi
-ví-vi-dosví-vi-mus
+ví-vi-dos
+ví-vi-mus
 vi-vis
 vi-vit
 ví-vi-te
