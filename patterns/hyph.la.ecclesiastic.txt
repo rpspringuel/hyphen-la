@@ -35,7 +35,7 @@
 .a2dfu
 .a3b4rah
 .a3d4æ
-.a3d4am 
+.a3d4am
 .a3d4ran
 .a3d4u3a
 .a3d4ul
@@ -264,7 +264,7 @@
 .o3b2es
 .o3b2ic
 .o3b2ig
-.o3b2œ 
+.o3b2œ
 .o3b4ruz
 .o4b3ici
 .o4b3œd
@@ -336,7 +336,7 @@
 .pe2r3ié
 .pe2r3íe
 .pé2r3ii
-.pe2r3ímu 
+.pe2r3ímu
 .pe2r3ju
 .pe2r3or
 .pe2r3reg
@@ -353,7 +353,7 @@
 .pe4r3ec
 .pe6r3egr
 .pé6r3egr
-.peri1 
+.peri1
 .peri3p2s
 .peri3p2t
 .peri3s2c
