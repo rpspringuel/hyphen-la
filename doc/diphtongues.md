@@ -61,4 +61,12 @@ For these, the rule seems to be to cut after the *i*, ex: *re-qui-em*.
 
 The most difficult cases are those where *eu*, *ia*, *au* or *iu* are the last vowels of a word. In this case it seems safer to consider these as different syllables. Exemple: *me-us*, *om-ni-a*, *e-unt*. 
 
+#### detecting semi-consonnant i
+
+I is semi-consonnantic only in the following cases:
+
+- vowel+i+vowel
+- word starts with i+vowel
+- word starts with (ab,ob,ad,per,sub,in,con,circum)+i+vowel
+
 TODO: list exceptions.
