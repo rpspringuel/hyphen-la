@@ -166,8 +166,8 @@ ad-nun-ti-o
 ad-nu-o
 ad-nu-to
 ad-o-le-o
-ad-ol-e-scens
-ad-ol-es-co
+ad-o-le-scens
+ad-o-les-co
 A-do-ne-us
 ad-op-ti-o
 ad-op-ti-vus
@@ -1058,7 +1058,7 @@ Pe-ri-an-der
 per-i-cli-ta-bun-dus
 per-i-cli-tor
 per-i-cu-lo-sus
-per-i-cu-lum
+pe-ri-cu-lum
 per-i-mo
 per-in-de
 per-i-ni-quus
