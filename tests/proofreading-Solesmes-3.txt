@@ -1233,7 +1233,7 @@ se-du-lo
 se-du-lus
 Se-du-ni
 sed
-su-bau-di-o
+sub-au-di-o
 sub-blan-di-or
 sub-cu-bo
 sub-do-le
@@ -1241,7 +1241,7 @@ sub-do-lus
 sub-do-mo
 sub-do
 sub-du-co
-su-be-o
+sub-e-o
 sub-fla-vus
 sub-i-ci-o
 sub-i-gi-to
