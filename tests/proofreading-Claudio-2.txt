@@ -16072,8 +16072,8 @@ per-i-é-runt
 pér-i-it
 per-í-mus
 pe-ri-psé-ma
-pe-ri-re
-pe-rí-re
+per-i-re
+per-í-re
 pe-rí-ti-a
 pe-ri-tis
 pe-ri-tú-ras
@@ -18274,8 +18274,8 @@ quo-mo-do
 quó-mo-do
 quo-mo-do-cum-que
 quon-dam
-quon-iam
-quón-iam
+quo-ni-am
+quó-ni-am
 quo-que
 quo-quot
 quó-rum
