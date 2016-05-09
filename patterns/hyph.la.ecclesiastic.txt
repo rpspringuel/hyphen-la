@@ -36,6 +36,7 @@
 .a2d3a3s4cr
 .a2d5s2t
 .a2dfu
+.a3b3æq
 .a3b4rah
 .a3d4æ
 .a3d4am.
@@ -54,6 +55,8 @@
 .a4d5æq
 .a4d5ule
 .a4d5ult
+.a4dy
+.á4dy
 .a4s3per
 .a5s4perg
 .a5s4pern
@@ -99,8 +102,6 @@
 .adi2e
 .adi2é
 .adsu3e
-.ady3
-.ády3
 .ani2m3ad
 .anti1
 .anti3m2n
@@ -138,6 +139,10 @@
 .co3n2i
 .co3n2o
 .co3n2u
+.co4n3i2u
+.co4n3i2ú
+.có4n3i2u
+.co6n5i4ec
 .coex3s2
 .coi3u
 .con3ic
@@ -148,9 +153,6 @@
 .coni2a
 .coni2e
 .coni2i
-.coni2u
-.coni2ú
-.cóni2u
 .conif
 .conig
 .conit
@@ -175,15 +177,11 @@
 .di4s3
 .dí4s3
 .di5s4cen
-.di5s4cer
 .di5s4cid
-.di5s4cin
 .di5s4cip
 .di5s4cíp
 .di5s4ciss
 .di5s4cr
-.di5s4er
-.di5s4per
 .di5s4pi
 .di5s4ta
 .di5s4tin
@@ -194,6 +192,7 @@
 .di6s5crim
 .di6s5crím
 .di6s5cru
+.di6s5per
 .disi3c
 .e2t3en
 .e2x3
@@ -338,6 +337,7 @@
 .pe2r1amb
 .pe2r1anti
 .pe2r1ar
+.pe2r1coq
 .pe2r1cu
 .pe2r1eff
 .pe2r1el
@@ -393,6 +393,7 @@
 .pe2r3ú
 .pe2r7s2t
 .pe3r2enn
+.pe3r4int
 .pe3r4ul
 .pe4r1e2x3
 .pe4r1ed
@@ -553,9 +554,14 @@
 .su3s2c
 .sú3s2c
 .su3s2p
+.su4b5ult
 .su4s3cep
 .su4s3cip
+.su4s3cíp
+.sú4s3cip
 .su4s3cit
+.su4s3cít
+.sú4s3cit
 .su4s3pen
 .sub5s4cr
 .sub5s4t
@@ -918,6 +924,7 @@ ch4r
 cho3e
 ci3ent
 ci3et
+ci4o.
 cu3
 cu4lc
 cu4lp
@@ -1016,6 +1023,7 @@ ngu6e
 ngu6é
 ni2a
 nu3is.
+nu6o.
 o1
 ó1
 o3um.
@@ -1033,13 +1041,16 @@ pha3el
 po2t3en
 po2t3er
 po2t3es
+qu6o.
 qu6u
 qu6um.
 r2chm
 r2h
 r4us.
+ri3e.
 ru3is.
 ru3it.
+ru6o.
 s2t3l
 s2t3q
 s2t3s
@@ -1083,6 +1094,7 @@ ui4us.
 uo3u
 uo3us
 uo3ús
+ve4o.
 x2it.
 x2u3it.
 x2um.
