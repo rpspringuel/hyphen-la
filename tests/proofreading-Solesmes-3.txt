@@ -11,7 +11,7 @@ ab-er-ro
 ab-hinc
 ab-hor-rens
 ab-hor-re-o
-ab-i-cio
+ab-i-ci-o
 a-bi-es
 ab-i-go
 ab-i-tus
@@ -547,12 +547,12 @@ con-gres-sus
 con-gru-ens
 con-gru-o
 co-ni-tor
-co-ni-veo
+co-ni-ve-o
 con-iec-ta-ne-a
 con-iec-to
 con-iec-tu-ra
 con-iec-tus
-con-ii-cio
+con-ii-ci-o
 con-iu-ga-lis
 con-iu-ga
 con-iu-gi-um
