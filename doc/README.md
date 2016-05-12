@@ -19,14 +19,11 @@ All these criteria conflict with each other, and a balance is difficult to find.
 
 ## Hyphenation rules
 
-An attempt has been made to summarize the hyphenation rules in [phonetic-rules.md](phonetic-rules.md). See also [diphtongues.md](diphtongues.md) for considerations on diphtongues.
+An attempt has been made to summarize the hyphenation rules in [phonetic-rules.md](phonetic-rules.md). See also [diphtongues.md](diphtongues.md) for considerations on diphtongues. [uncertains.md](uncertains.md) contains some words for which the hyphenation is not certain.
 
 ## Hyphenation in Liturgical texts
 
 Until Vatian II council, the Vatican required texts to be hyphenated in the "medieval" (post-4th century CE) way, but after Vatican II this rule seems less strict, and Solesmes got an oral authorization to use the phonetical patterns, which were used before 4th century and are easier to read. Solesmes cautiously used the phonetical patterns in their recent books.
-
-## Useful Links
-- http://www.ccwatershed.org/blog/2014/feb/13/how-hyphenate-latin-words/
 
 ## Bibliography
 - *Computer Aided Hyphenation for Italian and Modern Latin*, Claudio Beccari, in TUGboat Volume 13.1 (1992), available on [tug.org](https://tug.org/TUGboat/tb13-1/tb34becc.pdf)
@@ -35,3 +32,4 @@ Until Vatian II council, the Vatican required texts to be hyphenated in the "med
 - *Greek and Latin hyphenation – Recent advances*, Claudio Beccari, in ArsTEXnica N° 18, 2014, availble on [guitex.org](http://www.guitex.org/home/images/ArsTeXnica/AT018/GreekLatinHyphens.pdf)
 - *Phonétique historique du latin*, Max Niedermann, 1940, an extract is reproduced [here](syllabisation.md)
 - *Les mots latins*, François Martin, 1976
+- *Dictionnaire étymologique de la langue latine* by Ernout & Meillet, 1985
