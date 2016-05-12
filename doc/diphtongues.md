@@ -65,8 +65,5 @@ The most difficult cases are those where *eu*, *ia*, *au* or *iu* are the last v
 
 I is semi-consonnantic only in the following cases:
 
-- vowel+i+vowel
-- word starts with i+vowel
-- word starts with (ab,ob,ad,per,sub,in,con,circum)+i+vowel
-
-TODO: list exceptions.
+- vowel+i+vowel except qui+vowel and gui+vowel
+- word starts with (h,ab,ob,ad,per,sub,in,con,circum)+i+vowel or just i+vowel
