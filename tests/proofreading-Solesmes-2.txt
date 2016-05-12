@@ -79,7 +79,11 @@ i-gnis
 iam
 Ie-sus
 il-le
+in-di-gnus
+in-doc-tus
 in-dis-cre-tus
+in-ter-e-a
+in-ter-es-se
 is-chi-as
 Is-ra-el
 lan-gu-e-re
@@ -137,6 +141,7 @@ stran-gu-lo
 sub-i-go % ét
 sub-li-mis % ét
 sub-scri-bo
+su-per-es-se
 tec-tum
 tem-plum
 temp-to
