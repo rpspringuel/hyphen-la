@@ -55,10 +55,6 @@ These rules seem to transform well into the following: *eu* is always diphtongue
 
 ## Disambiguation of sequences of vowels
 
-#### qui+vowel, gui+vowel
-
-For these, the rule seems to be to cut after the *i*, ex: *re-qui-em*.
-
 #### desinences
 
 The most difficult cases are those where *eu*, *ia*, *au* or *iu* are the last vowels of a word. In this case it seems safer to consider these as different syllables. Exemple: *me-us*, *om-ni-a*, *e-unt*. 
@@ -67,5 +63,5 @@ The most difficult cases are those where *eu*, *ia*, *au* or *iu* are the last v
 
 I is semi-consonnantic only in the following cases:
 
-- vowel+i+vowel except qui+vowel and gui+vowel
-- word starts with (h,ab,ob,ad,per,sub,in,con,circum)+i+vowel or just i+vowel
+- vowel+i+vowel (*cu-ius*) except qui+vowel and gui+vowel (*re-qui-em*)
+- word starts with (h,ab,ob,ad,per,sub,in,con,circum)+i+vowel (*hie-ro-ny-mus*) or just i+vowel (*iam*)
