@@ -14,6 +14,7 @@
 .a2b1ic
 .a2b1ig
 .a2b1in1
+.a2b1ir
 .a2b1it
 .a2b1iv
 .a2b1ol
@@ -253,7 +254,6 @@
 .iei2u
 .in3s2p
 .in3s4cr
-.in4d3
 .in5d4is
 .in5s2t
 .ín5s2t
@@ -273,6 +273,7 @@
 .ino3b2oe
 .inob3s2c
 .inpe2r3iur
+.inte2r3e
 .inte2r3i2a
 .inte2r3s4pe
 .inu2a
@@ -575,6 +576,7 @@
 .subi4u
 .subi4ú
 .subte2r3h
+.su4b5ulc
 .supe2r1a3s2p
 .supe2r1a3s2t
 .supe2r1ab
@@ -598,6 +600,7 @@
 .supe2r1em
 .supe2r1en
 .supe2r1er
+.supe2r1es
 .supe2r1eu
 .supe2r1il
 .supe2r1im
@@ -924,7 +927,6 @@ ch4r
 cho3e
 ci3ent
 ci3et
-ci4o.
 cu3
 cu4lc
 cu4lp
@@ -979,7 +981,6 @@ i1
 í1
 ï1
 i1el.
-i2e.
 i2oi2u
 i2u2s3l
 i2ú2s3l
@@ -1023,7 +1024,6 @@ ngu6e
 ngu6é
 ni2a
 nu3is.
-nu6o.
 o1
 ó1
 o3um.
@@ -1050,7 +1050,6 @@ r4us.
 ri3e.
 ru3is.
 ru3it.
-ru6o.
 s2t3l
 s2t3q
 s2t3s
@@ -1094,7 +1093,6 @@ ui4us.
 uo3u
 uo3us
 uo3ús
-ve4o.
 x2it.
 x2u3it.
 x2um.

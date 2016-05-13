@@ -635,7 +635,7 @@ con-sti-tu-tum
 con-sto
 con-stre-po
 con-strin-go
-con-struo
+con-stru-o
 con-stu-pra-tor
 con-stu-pro
 con-su-es-co
@@ -1010,7 +1010,7 @@ per-ci-tus
 per-con-tor
 per-co-quo
 per-cre-bres-co
-per-cu-pio
+per-cu-pi-o
 per-cur-ro
 per-cus-si-o
 per-cus-sor
@@ -1026,7 +1026,7 @@ per-e-gre
 per-e-gri-na-ti-o
 per-e-gri-ni-tas
 per-e-gri-nus
-per-en-die
+per-en-di-e
 per-en-nis
 per-e-o
 per-er-ro
@@ -1301,7 +1301,7 @@ sub-ve-ni-o
 sub-ver-to
 sub
 sus-cep-tus
-sus-ci-pio
+sus-ci-pi-o
 sus-ci-to
 su-spec-to
 sus-pen-di-um
