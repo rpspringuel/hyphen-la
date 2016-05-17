@@ -157,7 +157,7 @@ haruspex
 hospitalitatem
 hospites
 ideo
-ieuinium
+ieiunium
 ille
 inanimus
 inanis
