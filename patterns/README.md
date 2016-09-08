@@ -2,8 +2,9 @@
 
 This directory contains two sets of Latin hyphenation patterns:
 
-- `hyph.la.etymology.txt` contains the patterns for medieval hyphenation considering etymology (as found in most liturgical books)
-- `hyph.la.phonetic.txt` contains the patterns for "modern" (or ancient) hyphenation considering phonetic (used by recent Solesmes books)
+- `hyph.la.liturgical.txt` contains the patterns for hyphenation of liturgical Latin (used by recent Solesmes books), it is the most tested set of patterns
+- `hyph.la.etymology.txt` contains the patterns for medieval hyphenation considering etymology
+- `hyph.la.phonetic.txt` contains the patterns for "modern" (or ancient) hyphenation considering phonetic
 
 See [doc](../doc/) folder for more on the differences, and how to choose between the two.
 
