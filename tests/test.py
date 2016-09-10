@@ -4,7 +4,7 @@ import pyphen
 import sys
 import re
 
-hyphenator = pyphen.Pyphen(filename='../patterns/hyph_la_ecclesiastic.dic',left=1,right=1)
+hyphenator = pyphen.Pyphen(filename='../patterns/hyph_la_liturgical.dic',left=1,right=1)
 
 def comparenoncompletehyphens(original, obtained):
 	i = 0
