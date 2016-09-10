@@ -15,6 +15,7 @@ abs-ter-go % ét
 abs-tra-ho % ét
 ad-do
 ad-est % ét
+ád-iu-va
 ag-men
 an-ti-quus
 ar-gu-o
