@@ -834,8 +834,8 @@ in-ter-dic-tum
 in-ter-di-us
 in-ter-di-u
 in-ter-dum
-in-te-re-a
-in-te-re-o
+in-ter-e-a
+in-ter-e-o
 in-ter-fec-ti-o
 in-ter-fec-tor
 in-ter-fi-ci-o
@@ -1055,8 +1055,8 @@ per-gu-la
 per-hau-ri-o
 per-hi-be-o
 Pe-ri-an-der
-per-i-cli-ta-bun-dus
-per-i-cli-tor
+pe-ri-cli-ta-bun-dus
+pe-ri-cli-tor
 pe-ri-cu-lo-sus
 pe-ri-cu-lum
 per-i-mo
