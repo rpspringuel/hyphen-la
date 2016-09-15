@@ -1,7 +1,9 @@
 .a2b1ali
 .a2b1auu
 .a2b1eo
+.á2b1eo
 .a2b1er
+.á2b1er
 .a2b1eu
 .a2b1eú
 .a2b1í
@@ -13,9 +15,11 @@
 .a2b1i4ur
 .a2b1ic
 .a2b1ig
+.á2b1ig
 .a2b1in1
 .a2b1ir
 .a2b1it
+.á2b1it
 .a2b1iv
 .a2b1ol
 .a2b1om
@@ -75,6 +79,7 @@
 .áb4s3
 .ab4s3c
 .ab4s3en
+.ab4s3én
 .ab4s3tem
 .ab4s3ter
 .ab4s3tér
@@ -326,6 +331,7 @@
 .obu2o
 .p2
 .pæ2n3ins
+.pæ2n3íns
 .para1i
 .para1u
 .pe2r1a2d1u
@@ -415,6 +421,7 @@
 .po4s4t3hac
 .pos4t3ea
 .pos4t3er
+.pos4t3ér
 .pos4t3h
 .pos4t3il
 .posu3í
@@ -1040,9 +1047,14 @@ p2l
 p2r
 ph3ph
 pha3el
+pha3él
+phá3el
 po2t3en
+po2t3én
 po2t3er
+po2t3ér
 po2t3es
+po2t3és
 qu6o.
 qu6u
 qu6um.
