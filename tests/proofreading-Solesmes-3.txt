@@ -34,8 +34,8 @@ abs-ce-do
 abs-ci-do
 ab-scin-do
 abs-con-do
-abs-ens
-abs-en-ti-a
+ab-sens
+ab-sen-ti-a
 ab-si-da-tus
 ab-si-da
 ab-si-li-o
@@ -712,7 +712,7 @@ con-tun-do
 con-tur-ba-tus
 con-tur-bo
 con-tus
-con-u-bi-um
+co-nu-bi-um
 co-nus
 con-va-les-co
 con-val-lis
