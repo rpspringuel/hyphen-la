@@ -44,8 +44,8 @@ The following rules are about specific case that do not follow the general rules
 	- There seems to be no exception to this rule.
 - **sc after a, o or u**: hyphenation point is between *s* and *c*.
 	- Ex: *nos-co*, *es-ca*.
-- **sc in other cases**: hyphenation is before *sc*.
-	- Ex: *no-scit*, *no-sce*, *e-scis*, *e-scæ*, *a-scy-ron*.
+- **sc in other cases**: hyphenation is before *sc*. We do not apply etymological exceptions here when *sc* is a digraph for ʃ (as in Liturgical Latin), as this hyphenation would not make any sense from a phonological point of view.
+	- Ex: *no-scit*, *no-sce*, *e-scis*, *e-scæ*, *a-scy-ron*, but *abs-ce-do*
 - **sch**: hyphenation between *s* and *ch*.
 	- Ex: *is-chi-as*.
 - **x, not followed by another consonnant:** hyphenation is before *x*.

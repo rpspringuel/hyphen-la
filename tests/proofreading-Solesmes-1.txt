@@ -281,7 +281,7 @@ se-met-ip-sum
 sem-un-ci-a-ri-us	% ét
 sem-us-tu-la-tus	% ét
 sep-te-na-ri-um
-ses-ce-na-ri-us	% ét
+se-sce-na-ri-us	% ét
 sic-cus
 sic-ut
 si-nus
@@ -295,10 +295,10 @@ sum-mus
 sump-si-mus
 sun-to
 su-pra
-sus-cep-tor	% ét
-sus-ci-pe	% ét
-sus-ci-pi-o	% ét
-sus-ci-tans	% ét
+su-scep-tor
+su-sci-pe
+su-sci-pi-o
+su-sci-tans
 su-scri-be-re
 su-spi-ce-re
 su-spi-ci-en-tes
