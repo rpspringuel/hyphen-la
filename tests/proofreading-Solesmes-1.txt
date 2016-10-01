@@ -313,7 +313,7 @@ tem-pus
 ter-un-ci-us	% ét
 tes-ta-men-tum
 tex-tor
-trans-a-bi-re
+trans-ab-i-re
 trans-i-e-rat
 tran-si-li-re	% ét
 trans-tu-lis-ti
