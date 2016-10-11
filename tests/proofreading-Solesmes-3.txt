@@ -892,10 +892,10 @@ ne-gi-to
 ne-gle-gens
 ne-gle-gen-ti-a
 ne-gle-go
-ne-go-ti-a-tor
-ne-go-ti-or
-ne-go-ti-o-sus
-ne-go-ti-um
+neg-o-ti-a-tor
+neg-o-ti-or
+neg-o-ti-o-sus
+neg-o-ti-um
 ne-go
 ob-am-bu-lo
 ob-dor-mis-co
