@@ -88,10 +88,12 @@ in-ter-e-a
 in-ter-es-se
 is-chi-as
 Is-ra-el
-lan-gu-e-re
+lan-gue-re
 lan-gu-i
-lan-gue-o
 lan-gues-co
+lan-gue-sci-mus
+lan-gue-sci-tis 
+lan-gue-o
 lau-do
 lec-ti-ster-ni-um % ét
 lin-gua
