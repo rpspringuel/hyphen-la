@@ -97,7 +97,6 @@ de-trahere
 de-vorare
 dif-ficilis
 di-mittere
-dis-cedere
 dis-iungere
 dis-suadere
 du-centi
@@ -277,7 +276,6 @@ re-vocare
 se-decim
 septen-decim
 septin-genti
-ses-centi
 sic-ut
 si-quidem
 si-ve
