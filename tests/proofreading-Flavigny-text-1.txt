@@ -6,7 +6,7 @@ aus-cul-to
 cæ-cus
 cir-cum-ci-do
 co-cus
-con-sci-en-tia
+con-sci-en-ti-a
 con-ser-vo
 con-ve-ni-en-ter
 co-u-tor
@@ -17,12 +17,12 @@ cur-ro
 de-in-de
 dif-fi-cul-ter
 et-e-nim
-et-i-am
+e-ti-am
 et-si
 flu-vi-us
 fo-ve-a
 fo-ve-o
-Fran-ci-scus
+Fran-cis-cus
 gil-vus
 glo-ri-o-se
 glo-ri-o-sus
@@ -44,8 +44,8 @@ ma-gni-fi-cus
 ma-gni-tu-do
 ma-gnus
 na-ti-vi-tas
-ne-scio
-ne-u-ter
+ne-sci-o
+neu-ter
 ob-ser-vo
 oc-cur-ro
 oc-ta-vus
@@ -65,7 +65,7 @@ post-e-ri-or
 post-e-ri-us
 pot-ens
 pot-en-ter
-pot-e-stas
+pot-es-tas
 præ-va-le-o
 præ-ve-ni-o
 pro-cul
@@ -100,8 +100,8 @@ sol-vo
 sub-iu-go
 sub-ve-ni-o
 suc-cur-ro
-sus-ci-pio
-sus-ci-to
+su-sci-pi-o
+su-sci-to
 su-us
 tam-et-si
 tri-ti-cum
