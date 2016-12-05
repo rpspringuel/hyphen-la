@@ -16,6 +16,7 @@ abs-tra-he-re
 abs-tu-le-runt
 ac-cep-ta
 ac-cep-tam
+ad-es-se
 ad-o-re-mus	% ét
 ad-scri-be-re
 æ-gre
@@ -29,6 +30,7 @@ a-gna-sci
 a-gno
 a-grus
 al-tus
+al-le-lu-ia
 am-bi-ge-re
 am-bo
 an-nus
@@ -206,6 +208,8 @@ ob-ru-e-re
 ob-um-bra-bit
 om-nes
 om-ni
+om-ni-a
+om-ni-um
 om-ni-pot-ens
 o-por-tet
 op-ti-me

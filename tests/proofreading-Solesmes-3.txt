@@ -271,6 +271,25 @@ ad-vol-vo
 ad-vor-sus
 a-dy-tum
 ad
+al-ter-a-ti-o
+al-ter-a-tus
+al-ter-ca-bi-lis
+al-ter-ca-ti-o
+al-ter-cor
+al-ter-cu-lum
+al-ter-i-tas
+al-ter-na-bi-lis
+al-ter-na-men-tum
+al-ter-na-tim
+al-ter-na-ti-o
+al-ter-nus
+al-ter-na
+al-ter-plex
+al-ter-pli-ci-tas
+al-ter-tra
+al-ter-a-re
+al-ter-o
+al-ter-u-trum
 am-ba-ges
 Am-bar-ri
 am-be-do
@@ -289,6 +308,8 @@ am-bro-si-a
 am-bu-la-tor
 am-bu-lo
 am-bu-ro
+as-tra
+beth-le-hem
 cir-cum-a-go
 cir-cum-a-ro
 cir-cum-cin-go
@@ -821,6 +842,8 @@ di-strin-go
 dis-tur-ba-ti-o
 dis-tur-bo
 Dis
+in-du-ce-re
+in-du-cat
 In-te-ram-na-tes
 in-ter-ca-la-ri-us
 in-ter-ca-lo
@@ -876,6 +899,7 @@ in-ter-ve-ni-o
 in-ter-ven-tus
 in-ter-vi-so
 in-ter
+lon-gin-quo
 nec-dum
 ne-ces-sa-ri-o
 ne-ces-sa-ri-us
@@ -1202,6 +1226,7 @@ Pos-tu-mus
 post
 prod-e-o
 pro-di-co
+prod-i-ens
 prod-i-gi-um
 prod-i-gus
 pro-di-ti-o
@@ -1234,6 +1259,7 @@ se-du-lo
 se-du-lus
 Se-du-ni
 sed
+som-ni-a
 sub-au-di-o
 sub-blan-di-or
 sub-cu-bo
