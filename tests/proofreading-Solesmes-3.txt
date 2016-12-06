@@ -31,6 +31,7 @@ ab-ro-go
 ab-rum-po
 ab-rup-tum
 abs-ce-do
+abs-ces-sus
 abs-ci-do
 ab-scin-do
 abs-con-do
@@ -308,6 +309,7 @@ am-bro-si-a
 am-bu-la-tor
 am-bu-lo
 am-bu-ro
+a-stat
 as-tra
 beth-le-hem
 cir-cum-a-go
@@ -844,6 +846,7 @@ dis-tur-bo
 Dis
 in-du-ce-re
 in-du-cat
+in-dul-gen-ti-am
 In-te-ram-na-tes
 in-ter-ca-la-ri-us
 in-ter-ca-lo
@@ -1224,11 +1227,13 @@ pos-tu-lo
 Pos-tu-mi-us
 Pos-tu-mus
 post
+præ-sto-la-bor
 prod-e-o
 pro-di-co
 prod-i-ens
 prod-i-gi-um
 prod-i-gus
+prod-is-ti
 pro-di-ti-o
 pro-di-tor
 pro-do

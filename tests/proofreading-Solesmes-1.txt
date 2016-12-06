@@ -4,6 +4,7 @@ ab-ri-pi-o
 abs-ce-de-re	% ét
 abs-ci-de-re	% ét
 ab-scin-de-re
+abs-cis-sus
 abs-con-de-re
 abs-con-dit
 ab-sen-ti-bus	% ét
@@ -36,6 +37,7 @@ am-bo
 an-nus
 an-ti-de-a
 An-ti-o-chi-am
+an-ti-qui-us
 a-pos-to-lo-rum
 a-ra
 ar-chan-ge-lo
@@ -52,6 +54,7 @@ a-ster-ne-re
 a-sti-pu-la-ri
 a-stre-pe-re	% ét
 a-strin-ge-re
+as-tris
 a-stru-e-re
 a-stu-pe-re
 a-trox
@@ -81,6 +84,8 @@ co-gno-vi
 co-gno-vis-ti
 co-me-tes
 co-mi-cus
+com-i-tan-tur
+com-i-ta-tu
 con-spec-tu
 cras-ti-na
 cre-a-re
@@ -88,6 +93,7 @@ cres-ca-mus
 cru-ci-fi-xus
 cyc-nus
 de-a
+de-mons-tra-re
 de-scen-de-re
 de-scen-dit
 de-ser-to
@@ -166,6 +172,7 @@ in-i-qui-ta-tes
 in-i-ti-a
 in-star	% ét
 in-stru-am	% ét
+in-ve-ni-an-tur
 ip-se
 ip-si-us
 ip-sum
@@ -177,6 +184,7 @@ lec-ti-ster-ni-um
 lo-cu-ples
 lon-gi-vus
 lu-crum
+lux-que
 ma-ni-fes-ten-tur
 ma-ni-fes-tá-vit
 man-su-e-tu-di-nem
@@ -190,6 +198,7 @@ mo-ri-tu-rus
 mul-tas-que
 mul-tum
 mun-dum
+mys-te-ri-um
 na-sce-tur
 neg-o-ti-um	% ét
 noc-tur-no
@@ -234,6 +243,8 @@ pot-en-ta-tu-i
 pot-en-ti-a
 pot-e-rit
 pot-es-tas
+præ-co-ni-a
+præ-es
 prod-e-o
 prod-es-se
 prod-i-ge-re	% ét
@@ -320,6 +331,7 @@ tex-tor
 trans-ab-i-re
 trans-i-e-rat
 tran-si-li-re	% ét
+trans-it-que
 trans-tu-lis-ti
 trans-us-que
 va-frum
