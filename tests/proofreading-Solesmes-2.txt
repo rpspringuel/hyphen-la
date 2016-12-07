@@ -20,7 +20,6 @@ ag-men
 an-ti-quus
 ar-gu-o
 ar-gu-unt
-au-tem
 bo-um
 ca-do
 cas-tra
@@ -56,7 +55,6 @@ e-ius
 e-o-a
 e-qui
 e-rat
-E-rech-the-um
 e-scis
 e-scæ
 e-æ
@@ -65,7 +63,6 @@ e-pi-tha-la-mus
 es-ca
 es-cha-to
 eu-ge
-Eu-ro-pa
 ex-e-o
 ex-em-plar
 ex-em-plum
@@ -74,9 +71,7 @@ ex-scre-o
 fe-bris
 fi-li-i
 fran-gun-tur
-gau-de
 ha-ru-spex % ét
-hu-ic
 i-gnis
 iam
 Ie-sus
@@ -130,7 +125,6 @@ pæn-in-su-la
 qua-dru-plum
 quem-ad-mo-dum
 quem-ád-mo-dum
-Ray-mun-dus
 re-gnum
 re-spi-ce % ét
 re-splen-de-o % ét
@@ -141,7 +135,6 @@ Sa-ul
 san-guis
 sanc-tus
 Sau-lus
-se-quun-tur
 sim-plex
 spec-trum
 stran-gu-lo
@@ -157,5 +150,4 @@ tran-scri-bo % ét
 trans-por-to % ét
 trans-trum % ét
 ve-ho
-vi-a
 vir-gi-ne-um
