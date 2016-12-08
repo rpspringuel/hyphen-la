@@ -9,6 +9,7 @@
 .a2b1i2é
 .a2b1i2ec
 .a2b1i2éct
+.a2b3ier
 .á2b3ig
 .a2b1i2i
 .a2b1i2í
@@ -100,6 +101,7 @@
 .adi2e
 .adi2é
 .adsu3e
+.alte2r3
 .ani2m3ad
 .anti1
 .anti3m2n
@@ -107,7 +109,7 @@
 .archi3e
 .a3s2c
 .a3s2p
-.a3s2t
+.a5s2t
 .a4s3per
 .a5s4perg
 .a5s4pern
@@ -282,8 +284,10 @@
 .in4d3ig
 .in5d4ign
 .in4d3u
+.in5d4uc
 .in5d4us
 .in5d4um
+.intro3i3e
 .i4n3
 .í4n3
 .i4n3ulc
@@ -331,10 +335,9 @@
 .lecti5s4t
 .lon2g1an
 .lon2g1án
-.lon2g1in
-.lon2g1ín
 .lu3x2u
 .lu3x2ú
+.lu4x3q
 .m2
 .n2
 .ne2c1op
@@ -485,6 +488,7 @@
 .po2t3e
 .præ1
 .præ3a2u
+.præ3es
 .præ3s2c
 .præ3s2p
 .præ5s2t
@@ -501,6 +505,7 @@
 .pro2d1fu2
 .pro2d1ib
 .pro2d1ier
+.pro2d1ien
 .pro2d1ig
 .pro2d1íg
 .pró2d1ig
@@ -670,6 +675,7 @@
 .supe2r1en
 .supe2r1er
 .supe2r1es
+.super3es.
 .supe2r1és
 .supe2r1eu
 .supe2r1il
@@ -761,6 +767,10 @@
 1n
 1p
 1qu4
+1qui3a
+1qui3e
+1qui3o
+1qui5u
 1r
 1s
 1t
@@ -900,8 +910,15 @@
 2sp
 2sq
 2sr
+s3se.
 2st.
 2st3p
+6s5tra.
+6s5tris.
+6s5trum.
+6s5tri.
+6s5tro.
+6s5trorum.
 2sv
 2t.
 2t1íps
@@ -1081,6 +1098,8 @@ i5ant.
 l3f2t
 lu1un
 lu1ún
+lu3i2a.
+m3n2i3a.
 n2s3f
 n2s3m
 nco3i
@@ -1096,7 +1115,6 @@ ngu6a
 ngu7erunt.
 ngu5im
 ngu5ist
-ni2a
 nu3is.
 o1
 ó1
@@ -1132,6 +1150,7 @@ s4t1k
 su2b5s4tan
 su3is.
 t2h4
+2th5l
 t2l
 t4r
 th4m
