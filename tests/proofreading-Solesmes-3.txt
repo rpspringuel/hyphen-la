@@ -1054,6 +1054,7 @@ per-e-gre
 per-e-gri-na-ti-o
 per-e-gri-ni-tas
 per-e-gri-nus
+per-emp-to
 per-en-di-e
 per-en-nis
 per-e-o
@@ -1332,6 +1333,7 @@ sub-ve-ho
 sub-ve-ni-o
 sub-ver-to
 sub
+su-per-es
 su-scep-tus
 su-sci-pi-o
 su-sci-to
