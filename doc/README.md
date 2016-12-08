@@ -26,6 +26,7 @@ An attempt has been made to summarize the hyphenation rules in [phonetic-rules.m
 Until Vatian II council, the Vatican required texts to be hyphenated in the "medieval" (post-4th century CE) way, but after Vatican II this rule seems less strict, and Solesmes got an oral authorization to use the phonetical patterns, which were used before 4th century and are easier to read. Solesmes cautiously used the phonetical patterns in their recent books.
 
 ## Bibliography
+- *Distinction des syllabes dans les mots latins*, Abbaye de Solesmes, in Études Grégoriennes XLII (2016)
 - *Computer Aided Hyphenation for Italian and Modern Latin*, Claudio Beccari, in TUGboat Volume 13.1 (1992), available on [tug.org](https://tug.org/TUGboat/tb13-1/tb34becc.pdf)
 - *Hyphenation Patterns for Ancient Greek and Latin*, Yannis Haralambous, in TUGboat Volume 13.4 (1992), available on [tug.org](https://tug.org/TUGboat/tb13-4/tb37hara-hyfgl.pdf)
 - *Some Remarks on Typesetting Classical Latin*, Claudio Beccari, in TUGboat Volume 15.1 (1994), available on [tug.org](https://tug.org/TUGboat/tb15-1/tb42becc-ancient.pdf)
