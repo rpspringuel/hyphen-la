@@ -12,11 +12,15 @@ See [doc](../doc/) folder for more on the differences, and how to choose between
 
 The patterns are in the patgen format used by TeX.
 
-#### libhyphen (LibreOffice, Adobe, etc.)
+### libhyphen (LibreOffice, Adobe, etc.)
 
-The patterns can be converted to [libhyphen](https://github.com/hunspell/hyphen) format (from the [Hunspell](https://hunspell.github.io/) sofware), in order to be usable in LibreOffice/OpenOffice, Mozilla products, Adobe products, etc. Run `make` to do the conversion. Note that you must have `perl` and `git` in order to do so.
+The patterns can be converted to [libhyphen](https://github.com/hunspell/hyphen) format (from the [Hunspell](https://hunspell.github.io/) sofware), in order to be usable in LibreOffice/OpenOffice, Mozilla products, Adobe products, etc. 
 
-#### Javascript
+##### Converting to libhyphen format
+
+Run `make` in this directory to do the conversion. Note that you must have `perl` and `git` in order to do so.
+
+### Javascript
 
 The patterns can be converted to the format used by [Hyphenator](http://mnater.github.io/Hyphenator/) and [hypher](https://github.com/bramstein/hypher) by using the [conversion page from Hyphenator](http://mnater.github.io/Hyphenator/compressor.html), after replacing new lines by space in the pattern files.
 
