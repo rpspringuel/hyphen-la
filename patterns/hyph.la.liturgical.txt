@@ -69,6 +69,7 @@
 .a2d3a3s4cr
 .a3d4on
 .ádi2u
+.adi2o
 .a2d5s2t
 .á2d5s2tr
 .a2dfu
@@ -77,6 +78,7 @@
 .a3d4æ
 .a3d4am.
 .a3d4ep
+.a3d4ip
 .a3d4ran
 .a3d4u3a
 .a3d4u3á
@@ -130,6 +132,7 @@
 .circumi2i
 .circumi2o
 .circumi2u
+.circumini4i
 .co1e
 .co1i
 .co1i2e
@@ -250,7 +253,7 @@
 .i2dci
 .i2e
 .i2é
-.i2i
+.i3i
 .i2o
 .i2ó
 .i3bi
@@ -284,6 +287,7 @@
 .in4d3ig
 .in5d4ign
 .in4d3u
+.in5d4ul
 .in5d4uc
 .in5d4us
 .in5d4um
@@ -313,7 +317,7 @@
 .ini2í
 .ini2u
 .ini2ú
-.ino2b
+.ino2b3œ
 .ino3b2oe
 .inob3s2c
 .inpe2r3iur
@@ -328,6 +332,7 @@
 .inu2i
 .inu2o
 .inu2u
+.ino2b3
 .iu2s3i2ur
 .j2
 .l2
@@ -436,7 +441,7 @@
 .pe4r1e2x3
 .pe2r3h
 .pé2r3h
-.pe2r3i2u
+.pe2r3i4u
 .pe2r3ib
 .pe2r3íb
 .pe2r3ié
@@ -504,6 +509,7 @@
 .pro2d1eun
 .pro2d1fu2
 .pro2d1ib
+.pro2d1id
 .pro2d1ier
 .pro2d1ien
 .pro2d1ig
@@ -744,7 +750,6 @@
 .transi3é
 .tránsi3e
 .tri3en
-.u2n1i2us
 .u3n2i3uscu
 .uni3an
 .uni3án
@@ -1070,6 +1075,7 @@ i1
 í1
 ï1
 i1el.
+i5i.
 i2oi2u
 i2u2s3l
 i2ú2s3l
@@ -1104,6 +1110,7 @@ n2s3f
 n2s3m
 nco3i
 ngu2á
+ngu2æ
 ngu2i
 ngu2í
 ngu2ó
