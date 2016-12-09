@@ -1237,9 +1237,10 @@ prod-e-o
 pro-di-co
 prod-i-dis-ti
 prod-i-ens
+prod-i-i
 prod-i-gi-um
 prod-i-gus
-prod-is-ti
+pro-di-dis-ti
 pro-di-ti-o
 pro-di-tor
 pro-do
