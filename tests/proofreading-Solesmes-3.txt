@@ -80,6 +80,7 @@ ad-duc-tus
 ad-emp-ti-o
 ad-e-o
 a-deps
+ad-io-cor
 ad-e-qui-to
 ad-fa-tim
 ad-fa-tus
@@ -119,6 +120,7 @@ ad-huc
 ad-i-ci-o
 ad-i-go
 ad-i-mo
+a-di-pe
 ad-i-pis-cor
 ad-i-tus
 ad-ia-ce-o
@@ -441,6 +443,7 @@ com-po-no
 com-por-to
 com-po-si-to
 com-pos
+com-pot-es
 com-pre-ca-ti-o
 com-pre-hen-do
 com-pres-se
@@ -1098,6 +1101,7 @@ pe-ri-sce-lis
 pe-ri-ti-a
 pe-ri-tus
 pe-ri
+per-iur
 per-iu-ro
 per-iu-rus
 per-le-go
@@ -1231,6 +1235,7 @@ post
 præ-sto-la-bor
 prod-e-o
 pro-di-co
+prod-i-dis-ti
 prod-i-ens
 prod-i-gi-um
 prod-i-gus
@@ -1239,6 +1244,7 @@ pro-di-ti-o
 pro-di-tor
 pro-do
 pro-du-co
+pro-spe-ris
 red-do
 red-emp-ti-o
 red-e-o
@@ -1284,6 +1290,7 @@ sub-i-to
 sub-i-tus
 sub-ia-ce-o
 sub-iec-tor
+sub-ie-cis-ti
 sub-ii-ci-o
 sub-iun-go
 sub-la-bor

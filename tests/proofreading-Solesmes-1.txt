@@ -75,6 +75,7 @@ ca-væ-di-um
 cer-no
 Chris-ma-te
 Chris-tus
+cir-cum-in-ii-ci-o
 cis-al-pi-nus
 cis-rhe-na-nus
 clo-a-ca
@@ -154,10 +155,13 @@ ge-ni-trix
 gib-bus
 ha-be-at
 ha-ru-spex
+hi-ul-co
+hi-ul-cus
 hos-pi-ta-li-ta-tem
 hos-pi-tes
 id-e-o	% ét
 ie-iu-ni-um
+i-is-dem
 il-le
 in-a-ni-mus
 in-a-nis
@@ -170,6 +174,7 @@ in-i-mi-cos
 in-i-mi-cus
 in-i-qui-ta-tes
 in-i-ti-a
+in-ob-œ-di-en-ti-am
 in-star	% ét
 in-stru-am	% ét
 in-ve-ni-an-tur
@@ -182,7 +187,13 @@ ius-ti-ti-a
 ius-tum
 jus-tum
 lec-ti-ster-ni-um
+lin-gua
 lin-guæ
+lin-guam
+lin-guas
+lin-gua-rum
+lin-guá-rum
+lin-guis
 lo-cu-ples
 lon-gi-vus
 lu-crum
@@ -211,12 +222,15 @@ nos-trum
 no-vem-bris
 no-vis-si-me
 ob-fi-di-re
+ob-i-i
 ob-li-no
 ob-li-vi-o
 ob-li-vi-sce-ris
 ob-lon-gus
+ob-œ-di-en-ti-a
 ob-ru-e-re
 ob-um-bra-bit
+ob-um-bra-ti-o-ne
 om-nes
 om-ni
 om-ni-a
@@ -322,6 +336,7 @@ su-spi-ci-en-tes
 sus-ti-nen-tes	% ét
 su-um
 ta-be-scet
+tam-en
 tec-tum
 tem-plo
 tem-plum
@@ -336,6 +351,8 @@ tran-si-li-re	% ét
 trans-it-que
 trans-tu-lis-ti
 trans-us-que
+unc-ti-o-ne
+u-ni-us
 va-frum
 vel-le
 vin-dex
