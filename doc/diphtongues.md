@@ -43,10 +43,10 @@ A sequence of two vowels is never a diphtongue when the second one comes from a 
 
 *eu* is a case with many rules:
 
-- in pure Latin, *eu* can be a dipthongue only after *c*, *s* or *n*, and in the intejections *heu!* and *heus!*
+- in pure Latin, *eu* can be a dipthongue only after *c*, *s* or *n*, and in the interjections *heu!* and *heus!*. It seems that gregorian chant considers *heu* as two vowels though (see for instance Aperiens Joannes sarcophagum, D-KA Aug. LX, 192r; CH-E611, 236r; A-Gu 30 278r; H326)
 - *eu* is a diphtongue in Greek words: *Europa*, *Orpheus*, *euge*, *eunuchus*
 
-These rules seem to transform well into the following: *eu* is always diphtongue at the beginning of a word, or after h, or in the words *seu*, *ceu*, *neu*, or when the word starts with *neut-* or *teut-*. One exception for these rules is *E-rech-the-um*.
+These rules seem to transform well into the following: *eu* is always diphtongue at the beginning of a word, after *th*, *ph*, *ch*, or in the words *seu*, *ceu*, *neu*, or when the word starts with *neut-* or *teut-*. One exception for these rules is *E-rech-the-um*.
 
 #### ei
 

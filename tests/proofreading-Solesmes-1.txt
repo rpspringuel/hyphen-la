@@ -57,6 +57,7 @@ a-strin-ge-re
 as-tris
 a-stru-e-re
 a-stu-pe-re
+a-thle-tam
 a-trox
 auc-tor
 a-zy-mus
@@ -187,6 +188,7 @@ ius-ti-ti-a
 ius-tum
 jus-tum
 lec-ti-ster-ni-um
+li-gnum
 lin-gua
 lin-guæ
 lin-guam
@@ -198,6 +200,7 @@ lo-cu-ples
 lon-gi-vus
 lu-crum
 lux-que
+ma-gnus
 ma-ni-fes-ten-tur
 ma-ni-fes-tá-vit
 man-su-e-tu-di-nem
