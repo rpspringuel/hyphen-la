@@ -18,16 +18,23 @@
           var res = '';
           var ini = $('#ini').val();
           var lines = ini.split("\n");
-          var wordRegex = new RegExp('[a-zA-Záéíó1æúýœǽ́]+');
+          var wordRegex = new RegExp('[a-záéíóæúýœǽ,:\.\u0301]+', 'gui');
           $.each(lines, function(i, line) {
             var wordUnits = line.split();
             var newWordUnits = [];
             $.each(wordUnits, function(i, wordUnit) {
               var newWordUnit = wordUnit.replace(wordRegex, function(match) {
-                var syls = Hypher.languages.la.hyphenate(match);
-                return syls.join(middleOfWordSymbol);
+                var actualWord = match;
+                var lastLetter = match.slice(-1);
+                if (lastLetter == '.' || lastLetter == ',' || lastLetter == ':') {
+                  actualWord = match.substr(0,match.length-1);
+                } else {
+                  lastLetter = '';
+                }
+                var syls = Hypher.languages.la.hyphenate(actualWord);
+                return syls.join(middleOfWordSymbol)+lastLetter+endOfWordSymbol;
               });
-              newWordUnits.push(newWordUnit+endOfWordSymbol);
+              newWordUnits.push(newWordUnit);
             });
             res += newWordUnits.join(' ');
             res += '\n';
