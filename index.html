@@ -18,7 +18,7 @@
           var res = '';
           var ini = $('#ini').val();
           var lines = ini.split("\n");
-          var wordRegex = new RegExp('[a-záéíóæúýœǽ,:\.\u0301]+', 'gui');
+          var wordRegex = new RegExp('[a-záéíóæúýœǽ,:\.\u0301]+', 'gi');
           $.each(lines, function(i, line) {
             var wordUnits = line.split();
             var newWordUnits = [];
