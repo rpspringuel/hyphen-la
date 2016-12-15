@@ -4,7 +4,43 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>Hyphen-la by gregorio-project</title>
-
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://raw.githubusercontent.com/bramstein/hypher/master/dist/jquery.hypher.js"></script>
+        <script src="patterns/la-hypher.js"></script>
+        <script>
+        function convert() {
+          var endOfWordSymbol = '()';
+          var middleOfWordSymbol = '()';
+          if (!$('#gabcformat').is(":checked")) {
+             endOfWordSymbol = '';
+             middleOfWordSymbol = '-';
+          }
+          var res = '';
+          var ini = $('#ini').val();
+          var lines = ini.split("\n");
+          var wordRegex = new RegExp('[a-zA-Záéíó1æúýœǽ́]+');
+          $.each(lines, function(i, line) {
+            var wordUnits = line.split();
+            var newWordUnits = [];
+            $.each(wordUnits, function(i, wordUnit) {
+              var newWordUnit = wordUnit.replace(wordRegex, function(match) {
+                var syls = Hypher.languages.la.hyphenate(match);
+                return syls.join(middleOfWordSymbol);
+              });
+              newWordUnits.push(newWordUnit+endOfWordSymbol);
+            });
+            res += newWordUnits.join(' ');
+            res += '\n';
+          });
+          $('#res').val(res);
+        }
+        </script>
+        <style>
+         textarea {
+            width: 700px;
+            height: 300px;
+         }
+        </style>
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/github-light.css">
     <meta name="viewport" content="width=device-width">
@@ -29,28 +65,20 @@
       </header>
       <section>
         <h1>
-<a id="latin-hyphenation-resources" class="anchor" href="#latin-hyphenation-resources" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Latin hyphenation resources</h1>
+<a id="latin-hyphenation-resources" class="anchor" href="#latin-hyphenation-resources" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Liturgical Latin hyphenation resources</h1>
 
-<p>This repository aims at providing useful programs and resources for Latin hyphenation. It is based on the work by Claudio Beccari (who is also one of the main contributor to this repository), with the aim to spread his work and improve it through feedback of some Monasteries using the patterns for their liturgical books.</p>
+<p>This page aims at giving some compiled resources coming from the hyphen-la project. The source, tests, documentation, etc. of the files distributed here can be found on <a href="https://github.com/gregorio-project/hyphen-la">the Github repository</a>.
 
-<p>See <a href="patterns">patterns</a> directory for the different patterns.</p>
+<p>You can find here <a href="patterns/hyph_la_liturgical.dic" download="hyph_la_liturgical.dic">latest version of the patterns for InDesign</a>, as well as the compiled <a href="patterns/la-hypher.js" download="la-hypher.js">javascript version of Hypher</a>. Note that you can also use the <code>checkSyllabation.py</code> script in the <a href="https://github.com/gregorio-project/gregorio/tree/develop/contrib">contrib/</a> folder of Gregorio to check a gabc sore against the InDesign version of the patterns.</p>
 
-<p>See <a href="doc">doc</a> directory for some documentation.</p>
+<p>Last but not least, a small demo:</p>
 
-<p>See <a href="tests">tests</a> directory for some tests.</p>
+        <textarea id="ini"></textarea>
+        <br>
+        <button onclick="convert()">Syllabificate</button> <label><input type="checkbox" id="gabcformat" value="yes" checked="checked">Gabc format</label><br>
+        <br>
+        <textarea id="res"></textarea>
 
-<p>See <a href="syllabifier">syllabifier</a> for a small python script using the patterns to hyphenate a text in a very simple way.</p>
-
-<h3>
-<a id="thanks" class="anchor" href="#thanks" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Thanks</h3>
-
-<p>This repository has been made possible throught the help of</p>
-
-<ul>
-<li>Claudio Beccari, main author</li>
-<li>The Abbey of Flavigny (France)</li>
-<li>The Abbey of Solesmes (France)</li>
-</ul>
       </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/gregorio-project">gregorio-project</a></p>
