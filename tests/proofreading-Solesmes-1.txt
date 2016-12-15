@@ -134,7 +134,7 @@ e-ruc-ta-vit
 es-se
 es-to
 et-e-nim	% ét
-e-ti-am
+et-i-am	% ét
 ex-al-ta
 ex-al-ta-vit
 ex-ce-dit
