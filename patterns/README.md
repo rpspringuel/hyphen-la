@@ -10,7 +10,7 @@ See [doc](../doc/) folder for more on the differences, and how to choose between
 
 ## Format conversion
 
-The patterns are in the patgen format used by TeX.
+The patterns are in the patgen format used by TeX. You can download them in other forms on the [webpage](http://gregorio-project.github.io/hyphen-la/), but if you want to convert them yourself:
 
 ### libhyphen (LibreOffice, Adobe, etc.)
 
