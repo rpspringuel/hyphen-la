@@ -160,6 +160,7 @@ hi-ul-co
 hi-ul-cus
 hos-pi-ta-li-ta-tem
 hos-pi-tes
+hu-ius
 id-e-o	% ét
 ie-iu-ni-um
 i-is-dem
