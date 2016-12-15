@@ -319,6 +319,7 @@ sep-te-na-ri-um
 se-sce-na-ri-us	% ét
 sic-cus
 sic-ut
+sic-ut-i
 si-nus
 so-lem-ni-ta-tem
 som-num
