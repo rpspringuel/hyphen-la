@@ -83,7 +83,8 @@
 .a3d4u3á
 .a4d5ul
 .a3d4urn
-.a4d3ip
+.a3d4ip
+.a4d5ipisc
 .a4d3ole
 .a4d5æq
 .a3d4y
@@ -121,6 +122,7 @@
 .a5s4tu
 .a5s4tú
 .b2
+.be4th5l
 .c2
 .ci2s3
 .circu4m1
@@ -521,7 +523,7 @@
 .pro2d3is
 .pro2d5it
 .pro3d2i3d
-.pro3di6i.
+.pro2d3ii.
 .pro3d6iti
 .pro3d6ito
 .pro3d6itr
