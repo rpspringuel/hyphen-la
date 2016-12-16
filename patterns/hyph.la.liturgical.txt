@@ -36,15 +36,17 @@
 .a2b3r
 .á2b3r
 .a2b3ru
-.áb4s3
 .ab4s3c
+.áb4s3c
 .ab4s3tem
+.ab4s3tém
 .ab4s3ter
 .ab4s3tér
 .ab4s3tin
 .ab4s3tín
 .áb4s3tin
 .ab4s3tr
+.áb4s3tr
 .ab4s3tu
 .ab4s3tú
 .ab5s4cin
@@ -56,6 +58,9 @@
 .ab5si3m
 .ab3so
 .ab3só
+.ab5s4on
+.áb5s4on
+.ab5s4ón
 .ab3s2ten
 .ab3su2
 .ab5su3m
@@ -344,6 +349,8 @@
 .in5d4ús
 .in5d4us
 .in5d4ús
+.in5d4um
+.in5d4úm
 .intro3i3e
 .intro3i3é
 .i4n3
@@ -450,8 +457,7 @@
 .pe2r1amá
 .pe2r1ámb
 .pe2r1amb
-.pe4r3anti
-.pe4r3antì
+.pe4r3ant
 .pe2r1ar
 .pe2r1ár
 .pe2r1coq
@@ -1352,6 +1358,7 @@ ui3é
 ui4us.
 uo3u
 uo3us
+uo3ús
 x2it.
 x2u3it.
 x2ú3it.
