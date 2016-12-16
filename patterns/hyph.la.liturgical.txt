@@ -98,7 +98,6 @@
 .ad5is.
 .ad5it.
 .ader2
-.ades2
 .adi2a
 .adi2á
 .adi2e
@@ -637,7 +636,8 @@
 .se3s4cen
 .seme2t3ip
 .ses2c1u4n
-.si2c1u4t2
+.si2c1u4t3
+.sí2c1u4t3
 .si3s2ten
 .sta3g2n
 .su4s3pen
