@@ -48,6 +48,7 @@ as-per
 a-sper-ge-re
 a-sper-na-ri
 as-pe-ro
+a-spe-xis-ti
 a-spi-ce-re
 as-sump-ti-o
 a-ster-ne-re
@@ -70,6 +71,7 @@ ca-do
 cæ-cus
 cæ-lum
 cæ-les-tis
+ca-phar-na-um
 cas-tos
 cas-tra
 ca-væ-di-um
@@ -93,6 +95,7 @@ cras-ti-na
 cre-a-re
 cres-ca-mus
 cru-ci-fi-xus
+cus-pi-de
 cyc-nus
 de-a
 de-mons-tra-re
@@ -105,6 +108,7 @@ de-spon-sa-tæ
 des-ti-na-re
 dex-ter
 dex-te-ra
+di-a-bo-lus
 di-cho-re-us
 di-e-bus
 di-gne-ris
@@ -121,7 +125,8 @@ di-stin-gue-re	% ét
 di-xi
 di-xit
 do-mus
-dra-chma
+drach-ma
+drach-mas
 du-plum
 dys-co-lis
 emp-tor
@@ -149,6 +154,7 @@ fac-tus
 fe-bris
 fe-lix
 fer-re
+fi-cul-ne-a
 flo-ru-e-runt
 fruc-ti-fe-ra
 gau-di-um
@@ -200,7 +206,12 @@ lin-guis
 lo-cu-ples
 lon-gi-vus
 lu-crum
+lu-em
+lu-es
+lu-is
+lu-ibus
 lux-que
+ma-ius
 ma-gnus
 ma-ni-fes-ten-tur
 ma-ni-fes-tá-vit
@@ -217,6 +228,7 @@ mul-tum
 mun-dum
 mys-te-ri-um
 na-sce-tur
+na-vi-gi-i
 neg-o-ti-um	% ét
 noc-tur-no
 nos-ter
@@ -276,6 +288,7 @@ pro-spec-tus
 pro-sta-re
 pro-tec-to-rem
 præ-fa-ti-o
+pu-bli-co
 pu-bli-cus
 pu-gna
 pul-vis
@@ -302,6 +315,7 @@ re-spu-e-re
 re-us
 rhyt-mus
 ro-sa
+sa-bach-ta-ni
 sa-cra
 sanc-tu-a-ri-um
 sanc-tum
@@ -343,6 +357,7 @@ su-um
 ta-be-scet
 tam-en
 tec-tum
+te-met-ip-sum
 tem-plo
 tem-plum
 temp-to
@@ -356,14 +371,19 @@ tran-si-li-re	% ét
 trans-it-que
 trans-tu-lis-ti
 trans-us-que
+tri-plex-que
 unc-ti-o-ne
 u-ni-us
+va-cu-um
 va-frum
 vel-le
 vin-dex
 vis-ne
 vi-ve-re
 u-ni-ge-ni-ti
+va-ri-is
 vel-ut
 ves-ter
 ve-xil-la
+vi-ti-a
+vos-met-ip-sos

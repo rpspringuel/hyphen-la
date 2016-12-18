@@ -394,6 +394,7 @@ com-mi-sce-o
 com-mi-se-re-or
 com-mi-se-ror
 com-mis-sor
+com-i-ta-tu
 com-mit-to
 Com-mi-us
 com-mo-de
@@ -849,9 +850,11 @@ di-strin-go
 dis-tur-ba-ti-o
 dis-tur-bo
 Dis
+ex-æs-tu-ant
 in-du-ce-re
 in-du-cat
 in-dul-gen-ti-am
+in-no-va
 In-te-ram-na-tes
 in-ter-ca-la-ri-us
 in-ter-ca-lo
@@ -1055,6 +1058,7 @@ per-do
 per-du-co
 per-du-el-li-o
 per-du-el-lis
+pe-re-at
 per-e-gre
 per-e-gri-na-ti-o
 per-e-gri-ni-tas
@@ -1093,6 +1097,7 @@ pe-ri-cli-ta-bun-dus
 pe-ri-cli-tor
 pe-ri-cu-lo-sus
 pe-ri-cu-lum
+per-i-i
 per-i-mo
 per-in-de
 per-i-ni-quus
@@ -1247,10 +1252,12 @@ pro-di-tor
 pro-do
 pro-du-co
 pro-spe-ris
+pro-ster-ni-mur
 red-do
 red-emp-ti-o
 red-e-o
 red-i-go
+red-i-me
 red-i-mi-o
 red-i-mo
 red-in-te-gro
@@ -1287,6 +1294,7 @@ sub-fla-vus
 sub-i-ci-o
 sub-i-gi-to
 sub-i-go
+sub-i-it
 sub-in-de
 sub-i-to
 sub-i-tus
