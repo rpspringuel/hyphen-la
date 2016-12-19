@@ -209,7 +209,7 @@ lu-crum
 lu-em
 lu-es
 lu-is
-lu-ibus
+lu-i-bus
 lux-que
 ma-ius
 ma-gnus
