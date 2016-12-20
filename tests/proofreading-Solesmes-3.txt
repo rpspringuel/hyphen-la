@@ -80,6 +80,7 @@ ad-duc-tus
 ad-emp-ti-o
 ad-e-o
 a-deps
+ad-ep-ta
 ad-io-cor
 ad-e-qui-to
 ad-es-to
@@ -313,6 +314,7 @@ am-bro-si-a
 am-bu-la-tor
 am-bu-lo
 am-bu-ro
+as-pi-dis
 a-stat
 as-tra
 beth-le-hem
@@ -851,6 +853,7 @@ dis-tur-ba-ti-o
 dis-tur-bo
 Dis
 ex-æs-tu-ant
+in-cir-cum-ci-sus
 in-du-ce-re
 in-du-cat
 in-dul-gen-ti-am
@@ -875,11 +878,12 @@ in-ter-fec-ti-o
 in-ter-fec-tor
 in-ter-fi-ci-o
 in-ter-flu-o
-in-te-ri-ci-o
-in-te-ri-mo
-in-te-rim
-in-te-ri-or
-in-te-ri-tus
+in-ter-i-ci-o
+in-ter-i-mo
+in-ter-im
+in-ter-ior
+in-ter-itus
+in-ter-i-tum
 in-ter-ia-ci-o
 in-ter-lu-o
 in-ter-mi-nor
@@ -1032,6 +1036,7 @@ Os-ti-a
 os-ti-um
 os-tre-um
 os-trum
+par-i-ter
 per-a-go
 per-a-gro
 per-a-man-ter
@@ -1255,7 +1260,9 @@ pro-spe-ris
 pro-ster-ni-mur
 red-do
 red-emp-ti-o
+red-e-at
 red-e-o
+red-e-git
 red-i-go
 red-i-me
 red-i-mi-o
