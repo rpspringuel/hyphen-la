@@ -969,7 +969,7 @@ in-ter-fi-ci-o
 in-ter-flu-o
 in-ter-i-ci-o
 in-ter-i-mo
-in-ter-i-or
+in-te-ri-or
 in-ter-i-tum
 in-ter-i-tus
 in-ter-ia-ce-o
