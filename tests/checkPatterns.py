@@ -32,7 +32,7 @@ import re
 parser = argparse.ArgumentParser(
                     description='Tiny script to check hyphenation patterns (against duplicated, invalid, etc.).',formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument('path',
-                    help='Path to a gabc file or a directory containing gabc files',
+                    help='Path to a pattern file',
                     action='store', type = argparse.FileType('r'))
 
 args = parser.parse_args()
