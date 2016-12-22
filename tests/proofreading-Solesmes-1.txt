@@ -1,10 +1,10 @@
 a-ba-cus
 ab-i-tus	% ét
 ab-ri-pi-o
-abs-ce-de-re	% ét
-abs-ci-de-re	% ét
+ab-sce-de-re	% ét
+ab-sci-de-re	% ét
 ab-scin-de-re
-abs-cis-sus
+ab-scis-sus
 abs-con-de-re
 abs-con-dit
 ab-sen-ti-bus	% ét
