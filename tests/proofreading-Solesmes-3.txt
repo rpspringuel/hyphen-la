@@ -356,6 +356,7 @@ al-te-ra-rum
 al-te-ram
 al-te-ras
 al-te-ri
+al-te-ri-tas
 al-te-ri-us
 al-te-ris
 al-te-ro
@@ -368,7 +369,6 @@ al-ter-ca-bi-lis
 al-ter-ca-ti-o
 al-ter-cor
 al-ter-cu-lum
-al-ter-i-tas
 al-ter-na
 al-ter-na-bi-lis
 al-ter-na-men-tum
@@ -969,11 +969,18 @@ in-ter-fi-ci-o
 in-ter-flu-o
 in-ter-i-ci-o
 in-ter-i-mo
+in-ter-i-or
 in-ter-i-tum
+in-ter-i-tus
+in-ter-ia-ce-o
 in-ter-ia-ci-o
+in-ter-ie-ci
+in-ter-iec-ti-o 
+in-ter-iec-ti-ve
+in-ter-iec-tus
+in-ter-ii-ci-o
 in-ter-im
-in-ter-ior
-in-ter-itus
+in-ter-iun-go
 in-ter-lu-o
 in-ter-mi-nor
 in-ter-mi-sce-o
@@ -1136,6 +1143,7 @@ pe-ri-cu-lum
 pe-ri-o-di-cus
 pe-ri-sce-lis
 pe-ri-ti-a
+pe-ri-tum
 pe-ri-tus
 Pe-rin-thus
 pe-ru-la
@@ -1275,7 +1283,6 @@ per-i-to-te
 per-i-tu
 per-i-tu-ra
 per-i-tu-ra-rum
-per-i-tu-rae
 per-i-tu-ram
 per-i-tu-ras
 per-i-tu-re
@@ -1286,7 +1293,7 @@ per-i-tu-ro-rum
 per-i-tu-ros
 per-i-tu-rum
 per-i-tu-rus
-per-i-tum
+per-i-tu-ræ
 per-i-tur
 per-i-ve-ra-mus
 per-i-ve-ra-tis
@@ -1489,7 +1496,7 @@ red-emp-ti-o
 red-i
 red-i-ba-mus
 red-i-ba-tis
-red-i-ba-tu-r
+red-i-ba-tur
 red-i-bam
 red-i-bant
 red-i-bas
