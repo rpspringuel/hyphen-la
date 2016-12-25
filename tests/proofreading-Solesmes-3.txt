@@ -1822,7 +1822,6 @@ su-pe-rem
 su-pe-ren-tur
 su-pe-rent
 su-pe-rer
-su-pe-res
 su-pe-ret
 su-pe-ri
 su-pe-ri-o-ra
@@ -1835,7 +1834,7 @@ su-pe-ri-o-ris
 su-pe-ri-o-rum
 su-pe-ri-or
 su-pe-ris
-su-pe-rius
+su-pe-ri-us
 su-pe-ro
 su-pe-ro-ra
 su-pe-ro-re
@@ -1883,7 +1882,6 @@ su-per-e-ro-ga-ti-o
 su-per-e-scit
 su-per-e-vo-lo
 su-per-ef-fe-ro
-su-per-es
 su-per-est
 su-per-ex-ac-ti-o
 su-per-ia-ce-o
