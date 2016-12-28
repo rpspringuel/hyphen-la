@@ -106,6 +106,8 @@ de-spi-ce-re
 de-spi-ci-at
 de-spon-sa-tæ
 des-ti-na-re
+de-us
+de-us-que
 dex-ter
 dex-te-ra
 di-a-bo-lus
@@ -212,6 +214,15 @@ lu-is
 lu-i-bus
 lux-que
 ma-ius
+ma-ior
+ma-io-ra
+ma-io-re
+ma-io-ri
+ma-io-ris
+ma-io-rem
+ma-io-rum
+ma-io-ri-bus
+ma-io-res
 ma-gnus
 ma-ni-fes-ten-tur
 ma-ni-fes-tá-vit
@@ -362,6 +373,8 @@ tem-plo
 tem-plum
 temp-to
 tem-pus
+te-ne-bra
+te-ne-bræ
 ter-un-ci-us	% ét
 tes-ta-men-tum
 tex-tor
@@ -380,6 +393,7 @@ vel-le
 vin-dex
 vis-ne
 vi-ve-re
+um-bræ
 u-ni-ge-ni-ti
 va-ri-is
 vel-ut
