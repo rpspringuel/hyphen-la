@@ -24,9 +24,12 @@ def comparenoncompletehyphens(original, obtained):
 				i = i + 1
 	return True
 
+def printError(wrong, correct, base):
+	print('%s 		%% %s  (not %s)' % (base, correct, wrong), file=sys.stderr)
+
 def dotest(filename, allhyphens=True):
 	global hyphenator, seenSegs, nbErrors
-	print('differences in '+filename+':\nproofread result (correct) / result obtained by patterns (incorrect)', file=sys.stderr)
+	print('differences in '+filename+':', file=sys.stderr)
 	linenum = 0
 	with open(filename, 'r') as f:
 		for line in f:
@@ -42,10 +45,10 @@ def dotest(filename, allhyphens=True):
 			new = hyphenator.inserted(base)
 			if allhyphens:
 				if not line == new:
-					print(line+' / '+new, file=sys.stderr)
+					printError(new, line, base)
 			else:
 				if not comparenoncompletehyphens(line, new):
-					print(line+' / '+new, file=sys.stderr)
+					printError(new, line, base)
 
 def deacc(accstr):
 	return accstr.replace('á', 'a').replace('é', 'e').replace('í', 'i').replace('ó', 'o').replace('ú', 'u').replace('ý', 'y').replace('́', '').replace('ǽ', 'æ')
