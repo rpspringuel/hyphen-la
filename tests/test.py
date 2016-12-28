@@ -65,7 +65,7 @@ def dotest_accents(filename):
 			resacc = hyphenator.inserted(baseacc)
 			resnoacc = hyphenator.inserted(basenoacc)
 			if not resnoacc == deacc(resacc):
-				print(resnoacc+' / '+resacc, file=sys.stderr)
+				printError(resacc, resnoacc, baseacc)
 
 #dotest('proofreading-Claudio-2.txt')
 #print('\n')
