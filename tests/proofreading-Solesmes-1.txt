@@ -315,7 +315,7 @@ pul-vis
 pæn-in-su-la
 qua-drans
 quin-quen-ni-um
-quo-ni-am
+quon-i-am
 quo-us-que
 quæs-tor
 re-do-na-re
@@ -414,3 +414,10 @@ vos-met-ip-sos
 Æ-gyp-tum
 æ-qui-tas
 æs-tas
+ex-tin-guo
+ex-tin-gue-re
+ex-tin-guens
+ex-tin-gui-to
+pin-gui
+pin-gui-a
+pin-gue
