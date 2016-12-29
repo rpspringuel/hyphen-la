@@ -421,3 +421,6 @@ ex-tin-gui-to
 pin-gui
 pin-gui-a
 pin-gue
+nun-ti-ant
+pneu-ma-tis
+fi-ant

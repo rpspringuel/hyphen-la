@@ -717,6 +717,7 @@
 .pe3r4ul
 .pe3r4úl
 .pe2r1u2o
+.pne4u
 .po3et
 .pos4t3ea
 .pos4t3eá
@@ -1204,7 +1205,6 @@ ai2u
 ái2u
 ai4unt.
 a2m3ui
-4ant.
 a2u
 a5ú
 á2u
