@@ -1,15 +1,36 @@
 a-ba-cus
+a-er
+a-gna-sci
+a-gno
+a-grus
+a-pos-to-lo-rum
+a-ra
+A-ris-to-te-les
+a-scen-de-re
+a-spe-xis-ti
+a-sper-ge-re
+a-sper-na-ri
+a-spi-ce-re
+a-ster-ne-re
+a-sti-pu-la-ri
+a-stre-pe-re	% ét
+a-strin-ge-re
+a-stru-e-re
+a-stu-pe-re
+a-thle-tam
+a-trox
+a-zy-mus
 ab-i-tus	% ét
 ab-ri-pi-o
 ab-sce-de-re	% ét
 ab-sci-de-re	% ét
 ab-scin-de-re
 ab-scis-sus
-abs-con-de-re
-abs-con-dit
 ab-sen-ti-bus	% ét
 ab-so-lu-ti-o-nis
 ab-sol-ve
+abs-con-de-re
+abs-con-dit
 abs-que
 abs-te-mi-us
 abs-ti-ne-re
@@ -20,61 +41,34 @@ ac-cep-tam
 ad-es-se
 ad-o-re-mus	% ét
 ad-scri-be-re
-æ-gre
-Æ-gyp-tum
-æ-qui-tas
-a-er
-æs-tas
 ag-ger
 ag-men
-a-gna-sci
-a-gno
-a-grus
-al-tus
 al-le-lu-ia
+al-tus
 am-bi-ge-re
 am-bo
 an-nus
 an-ti-de-a
 An-ti-o-chi-am
 an-ti-qui-us
-a-pos-to-lo-rum
-a-ra
 ar-chan-ge-lo
 ar-gu-an-tur
-A-ris-to-te-les
-a-scen-de-re
-as-per
-a-sper-ge-re
-a-sper-na-ri
 as-pe-ro
-a-spe-xis-ti
-a-spi-ce-re
+as-per
 as-sump-ti-o
-a-ster-ne-re
-a-sti-pu-la-ri
-a-stre-pe-re	% ét
-a-strin-ge-re
 as-tris
-a-stru-e-re
-a-stu-pe-re
-a-thle-tam
-a-trox
 auc-tor
-a-zy-mus
-bap-tis-mi
 ba-si-lis-cum
-be-ne-dic-tus
+bap-tis-mi
 be-ne-di-xit
 be-ne-di-xís-ti
+be-ne-dic-tus
+Be-nia-min
 ca-do
-cæ-cus
-cæ-lum
-cæ-les-tis
 ca-phar-na-um
+ca-væ-di-um
 cas-tos
 cas-tra
-ca-væ-di-um
 cer-no
 Chris-ma-te
 Chris-tus
@@ -83,13 +77,13 @@ cis-al-pi-nus
 cis-rhe-na-nus
 clo-a-ca
 co-e-gi
-co-gnos-co
 co-gno-vi
 co-gno-vis-ti
+co-gnos-co
 co-me-tes
 co-mi-cus
-com-i-tan-tur
 com-i-ta-tu
+com-i-tan-tur
 con-spec-tu
 cras-ti-na
 cre-a-re
@@ -97,6 +91,9 @@ cres-ca-mus
 cru-ci-fi-xus
 cus-pi-de
 cyc-nus
+cæ-cus
+cæ-les-tis
+cæ-lum
 de-a
 de-mons-tra-re
 de-scen-de-re
@@ -105,43 +102,50 @@ de-ser-to
 de-spi-ce-re
 de-spi-ci-at
 de-spon-sa-tæ
-des-ti-na-re
 de-us
 de-us-que
-dex-ter
+des-ti-na-re
 dex-te-ra
+dex-ter
 di-a-bo-lus
 di-cho-re-us
 di-e-bus
 di-gne-ris
 di-gnis-si-ma
 di-gno-sce-re
-dir-i-me-re	% ét
 di-sci-pu-lis
 di-scri-be-re
-dis-per-dit
 di-sper-ge-re	% ét
 di-spi-ce-re
 di-sta-re
 di-stin-gue-re	% ét
 di-xi
 di-xit
+dir-i-me-re	% ét
+dis-per-dit
 do-mus
 drach-ma
 drach-mas
 du-plum
 dys-co-lis
-emp-tor
+E-leu-the-ri-i
 e-nu-tri-et
 e-o-rum
 e-quus
 e-rit
 e-ru-bes-cam
 e-ruc-ta-vit
+e-um
+e-um-dem
+e-unt
+e-us
+emp-tor
 es-se
 es-to
 et-e-nim	% ét
 et-i-am	% ét
+Eu-cha-ris-ti-a
+Eu-ro-pa
 ex-al-ta
 ex-al-ta-vit
 ex-ce-dit
@@ -169,16 +173,12 @@ hi-ul-cus
 hos-pi-ta-li-ta-tem
 hos-pi-tes
 hu-ius
+i-is-dem
 id-e-o	% ét
 ie-iu-ni-um
-i-is-dem
 il-le
 in-a-ni-mus
 in-a-nis
-ind-ep-tus	% ét
-ind-i-ges	% ét
-ind-i-pis-cor	% ét
-ind-u-e-re	% ét
 in-i-mi-ci
 in-i-mi-cos
 in-i-mi-cus
@@ -188,6 +188,10 @@ in-ob-œ-di-en-ti-am
 in-star	% ét
 in-stru-am	% ét
 in-ve-ni-an-tur
+ind-ep-tus	% ét
+ind-i-ges	% ét
+ind-i-pis-cor	% ét
+ind-u-e-re	% ét
 ip-se
 ip-si-us
 ip-sum
@@ -196,42 +200,44 @@ is-thmus
 ius-ti-ti-a
 ius-tum
 jus-tum
+lau-dem
+laus
 lec-ti-ster-ni-um
 li-gnum
 lin-gua
-lin-guæ
+lin-gua-rum
 lin-guam
 lin-guas
-lin-gua-rum
-lin-guá-rum
 lin-guis
+lin-guá-rum
+lin-guæ
 lo-cu-ples
 lon-gi-vus
 lu-crum
 lu-em
 lu-es
-lu-is
 lu-i-bus
+lu-is
 lux-que
-ma-ius
-ma-ior
+ma-gnus
 ma-io-ra
 ma-io-re
-ma-io-ri
-ma-io-ris
 ma-io-rem
-ma-io-rum
-ma-io-ri-bus
 ma-io-res
-ma-gnus
+ma-io-ri
+ma-io-ri-bus
+ma-io-ris
+ma-io-rum
+ma-ior
+ma-ius
 ma-ni-fes-ten-tur
 ma-ni-fes-tá-vit
 man-su-e-tu-di-nem
+me-ta
+me-us
 mem-brum
 men-sa
 mer-ces
-me-ta
-me-us
 mi-nis-tro-rum
 mo-ri-tu-rus
 mul-tas-que
@@ -241,76 +247,84 @@ mys-te-ri-um
 na-sce-tur
 na-vi-gi-i
 neg-o-ti-um	% ét
+no-vem-bris
+no-vis-si-me
 noc-tur-no
 nos-ter
 nos-tri
 nos-tris
 nos-trum
-no-vem-bris
-no-vis-si-me
+o-por-tet
 ob-fi-di-re
 ob-i-i
 ob-li-no
 ob-li-vi-o
 ob-li-vi-sce-ris
 ob-lon-gus
-ob-œ-di-en-ti-a
 ob-ru-e-re
 ob-um-bra-bit
 ob-um-bra-ti-o-ne
+ob-œ-di-en-ti-a
 om-nes
 om-ni
 om-ni-a
-om-ni-um
 om-ni-pot-ens
-o-por-tet
+om-ni-um
 op-ti-me
 op-ti-mus
 or-do
 os-cu-la-tæ
-pas-cu-æ
 pa-ter
 pa-tres
+pas-cu-æ
 pau-per
-pec-tus
-pe-ior
 pe-io-rem
+pe-ior
+Pe-trus
+pec-tus
 pen-te-cos-tes
 per-i-bunt
 per-man-sis-ti
-Pe-trus
 phi-lo-so-phus
 pi-scis
 po-sce
 pos-sum
-pot-ens
+pot-e-rit
 pot-en-ta-tu-i
 pot-en-ti-a
-pot-e-rit
+pot-ens
 pot-es-tas
-præ-co-ni-a
-præ-es
+pro-scæ-ni-um	% ét
+pro-spec-tus
+pro-sta-re
+pro-tec-to-rem
 prod-e-o
 prod-es-se
 prod-i-ge-re	% ét
 prod-i-re
 prop-ter
 prop-ter-e-a	% ét
-pro-scæ-ni-um	% ét
-pro-spec-tus
-pro-sta-re
-pro-tec-to-rem
+præ-co-ni-a
+præ-es
 præ-fa-ti-o
+pseu-do-pres-by-ter
 pu-bli-co
 pu-bli-cus
 pu-gna
 pul-vis
 pæn-in-su-la
 qua-drans
-quæs-tor
 quin-quen-ni-um
 quo-ni-am
 quo-us-que
+quæs-tor
+re-do-na-re
+re-dor-mi-re
+re-du-ce-re
+re-gnum
+re-spe-xit
+re-spu-e-re
+re-us
 rec-tæ
 red-ar-gu-e-re	% ét
 red-ar-gu-o	% ét
@@ -319,44 +333,34 @@ red-emp-ti-o-ne
 red-emp-ti-o-nem
 red-emp-tor
 red-i-re
-re-do-na-re
-re-dor-mi-re
-re-du-ce-re
-re-gnum
-re-spe-xit
-re-spu-e-re
-re-us
 rhyt-mus
 ro-sa
 sa-bach-ta-ni
 sa-cra
+sa-tis-ac-ci-pe-re	% ét
 sanc-tu-a-ri-um
 sanc-tum
 sanc-tus
 sat-a-ge-re	% ét
-sa-tis-ac-ci-pe-re	% ét
 scep-trum
 scri-ben-tis
 scrip-si
 se-cus
 se-met-ip-sum
+se-sce-na-ri-us	% ét
 sem-un-ci-a-ri-us	% ét
 sem-us-tu-la-tus	% ét
 sep-te-na-ri-um
-se-sce-na-ri-us	% ét
+si-nus
 sic-cus
 sic-ut
 sic-ut-i
-si-nus
 so-lem-ni-ta-tem
 som-num
 spec-tant
 spec-trum
 sta-gnum
 su-ap-te
-sum-mus
-sump-si-mus
-sun-to
 su-pra
 su-scep-tor
 su-sci-pe
@@ -365,41 +369,48 @@ su-sci-tans
 su-scri-be-re
 su-spi-ce-re
 su-spi-ci-en-tes
-sus-ti-nen-tes	% ét
 su-um
+sum-mus
+sump-si-mus
+sun-to
+sus-ti-nen-tes	% ét
 ta-be-scet
 tam-en
-tec-tum
 te-met-ip-sum
-tem-plo
-tem-plum
-temp-to
-tem-pus
 te-ne-bra
 te-ne-bræ
+tec-tum
+tem-plo
+tem-plum
+tem-pus
+temp-to
 ter-un-ci-us	% ét
 tes-ta-men-tum
 tex-tor
+tran-si-li-re	% ét
 trans-ab-i-re
 trans-i-e-rat
-tran-si-li-re	% ét
 trans-it-que
 trans-tu-lis-ti
 trans-us-que
 tri-plex-que
-unc-ti-o-ne
+u-ni-ge-ni-ti
 u-ni-us
+um-bræ
+unc-ti-o-ne
 va-cu-um
 va-frum
-vel-le
-vin-dex
-vis-ne
-vi-ve-re
-um-bræ
-u-ni-ge-ni-ti
 va-ri-is
+ve-xil-la
+vel-le
 vel-ut
 ves-ter
-ve-xil-la
 vi-ti-a
+vi-ve-re
+vin-dex
+vis-ne
 vos-met-ip-sos
+æ-gre
+Æ-gyp-tum
+æ-qui-tas
+æs-tas
