@@ -39,10 +39,10 @@ parser = argparse.ArgumentParser(
     				description='A script to "syllabify" (insert a character between all syllables) a file.',formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument('-t', '--text-type',
                     help='text type (chant or prose)',
-                    default='prose', dest='type')
+                    default='chant', dest='type')
 parser.add_argument('-m', '--hyphen-mode',
-                    help='Hyphenation mode (phonetic or etymology)',
-                    default='phonetic', dest='mode')
+                    help='Hyphenation mode (liturgical, phonetic or etymology)',
+                    default='liturgical', dest='mode')
 parser.add_argument('-i', '--input', nargs='?', type = argparse.FileType('r'),
 					default=sys.stdin, dest='inputfile')
 parser.add_argument('-o', '--output-file', nargs='?', type=argparse.FileType('w'),
