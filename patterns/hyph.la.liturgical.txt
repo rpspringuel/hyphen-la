@@ -13,14 +13,15 @@
 .a2bfu
 .a2b1í
 .a2b1ic
-.a2b1i2é
 .a2b1i2ec
-.a2b1i2éct
+.a2b1i2éc
 .a2b3ier
+.a2b3iér
 .a2b1ig
 .á2b3ig
 .a2b1i2i
 .a2b1i2í
+.á2b1i2i
 .a2b1in1
 .a2b1ir
 .a2b1it
@@ -150,9 +151,13 @@
 .ape3r2u
 .archi3e
 .a3s2c
+.á3s2c
 .a3s2p
+.á3s2p
 .a4s3pid
+.á4s3pid
 .a4s3per
+.á4s3per
 .a5s4perg
 .a5s4pern
 .a5s2t
@@ -195,6 +200,7 @@
 .co1i2e
 .coi3u
 .co2m3ed
+.co2m3éd
 .có2m3ed
 .co2m3es.
 .co2m3it
@@ -404,6 +410,7 @@
 .in4d3ipís
 .in5d4is
 .in4d3u
+.ín4d3u
 .in4d3ú
 .in5d4uc
 .in5d4úc
@@ -414,6 +421,7 @@
 .in5d4us
 .in5d4ús
 .in5d4ux
+.in5d4úx
 .i3n2ers
 .i3n2ert
 .ine2x3
@@ -455,6 +463,7 @@
 .interi2a
 .interi2á
 .interi2e
+.interí2e
 .interi2é
 .interi2i
 .interi2í
@@ -731,6 +740,7 @@
 .præ3s2p
 .præ5s2t
 .præte2r1
+.præté2r1
 .primi1
 .primi3s2c
 .pro2d1ea
@@ -905,6 +915,7 @@
 .re5s2tin
 .re5s2tip
 .re5s4tit
+.re5s4tít
 .re5s2to
 .re5s4tr
 .s2
@@ -1079,6 +1090,7 @@
 .supe2r3s2c
 .supe2r3s2p
 .supe2r5s4t
+.supé2r5s4t
 .supe2r1sub3s2t
 .supe2r3u
 .supe2r3ú
@@ -1125,10 +1137,13 @@
 .trans1a2u
 .tran3s2c
 .trans1e
+.tráns1e
 .trans3ea
 .tráns3ea
 .tran3s2en
 .transe2u
+.tránse2u
+.transe2ú
 .trans3i
 .trans3í
 .tráns3i
@@ -1138,6 +1153,7 @@
 .tránsi3e
 .tráns3i4i
 .tran3s4il
+.tran3s4íl
 .trans1o2
 .trans1u2
 .tran3s2um
@@ -1429,6 +1445,7 @@ ngu8eris
 ngu8eri.
 ngu7ero.
 ngu7erunt.
+ngu7érunt.
 ngu6é
 ngu4i
 ngu4i3a
@@ -1489,8 +1506,11 @@ p2l
 2pn
 3p2neu
 po2t3en
+po2t3én
 po2t3er
+po2t3ér
 po2t3es
+po2t3és
 4pp
 p2r
 2ps
