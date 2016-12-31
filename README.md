@@ -16,6 +16,8 @@ See [syllabifier](syllabifier) for a small python script using the patterns to h
 ### Thanks
 
 This repository has been made possible throught the help of
-- Claudio Beccari, main author
-- The Abbey of Flavigny (France)
-- The Abbey of Solesmes (France)
+ * Claudio Beccari, main author
+ * [The Abbey of Solesmes (FR)](http://www.solesmes.com/)
+ * [The Abbey of Flavigny (FR)](http://www.clairval.com)
+ * [Abbazia di Praglia (IT)](http://www.praglia.it)
+ * [Abbazia Mater Ecclesiae (IT)](http://it.wikipedia.org/wiki/Abbazia_Mater_Ecclesiae)
