@@ -441,7 +441,6 @@ ad-den-do
 ad-den-dum
 ad-dens
 ad-de-re
-ad-de-re
 ad-de-ret
 ad-de-re-tur
 ad-di
@@ -697,7 +696,6 @@ ad-ro-gan-ter
 ad-ro-gan-ti-a
 ad-ro-go
 ad-scri-be-re
-ad-scri-be-re
 ad-scrí-pa-tam
 ad-scríp-ta
 ad-scrip-tæ
@@ -707,7 +705,6 @@ ad-stán-tes
 ad-stan-ti-bus
 ad-sté-mus
 ad-sto
-ad-sum
 ad-sum
 ád-su-mus
 ad-sunt
@@ -842,7 +839,6 @@ a-e-gre
 Æ-qui-noc-ti-um
 a-e-qui-tas
 æ-qui-tas
-æ-qui-tas
 æ-qui-tá-te
 æ-qui-tá-tem
 æ-qui-tá-tis
@@ -878,7 +874,6 @@ a-es-tas
 æs-tu-á-tus
 æs-tu-á-vit
 æs-tus
-æ-tas
 æ-tas
 æ-tá-te
 æ-tá-tem
@@ -1084,7 +1079,6 @@ a-li-a-que
 a-li-á-rum
 á-li-as
 a-li-bi
-a-li-bi
 a-li-cu-bi
 a-lí-cu-i
 a-li-cu-ius
@@ -1121,7 +1115,6 @@ a-li-qua
 a-li-quæ
 á-li-quam
 a-li-quam-di-u
-a-li-quan-do
 a-li-quan-do
 a-li-quán-do
 a-li-quan-to
@@ -1252,7 +1245,6 @@ am-bæ
 am-bas
 ám-bi-at
 am-bi-ga-mus
-am-bi-ge-re
 am-bi-ge-re
 am-bí-gi-tur
 am-bi-ti-ó-nem
@@ -1528,7 +1520,6 @@ an-tí-ci-pent
 an-ti-de-a
 An-ti-o-chæ
 An-ti-o-chí-æ
-An-ti-o-chi-am
 An-ti-o-chi-am
 An-ti-o-chí-am
 an-ti-pho-na
@@ -1947,7 +1938,6 @@ A-sper-gen-dam
 a-sper-gen-dum
 a-sper-gens
 a-sper-ge-re
-a-sper-ge-re
 A-spér-ges
 a-sper-ges
 a-sper-git
@@ -2059,22 +2049,17 @@ astán-ti-um
 astá-re
 astat
 a-ster-ne-re
-a-ster-ne-re
 asti-ne-re
-a-sti-pu-la-ri
 a-sti-pu-la-ri
 asti-té-runt
 asti-tís-ti
 ás-ti-tit
 a-stra
 a-stre-pe-re
-a-stre-pe-re
-a-strin-ge-re
 a-strin-ge-re
 a-strin-go
 a-stru-e-re
 a-strum
-a-stu-pe-re
 a-stu-pe-re
 a-stú-ti-a
 A-tha-ná-si-i
@@ -2393,7 +2378,6 @@ Ba-si-li-de
 Ba-sí-li-dis
 Ba-si-lí-i
 ba-si-lis-cum
-ba-si-lis-cum
 ba-si-lís-cum
 Ba-si-li-us
 Ba-vó-nem
@@ -2451,7 +2435,6 @@ Be-ne-dí-cam
 Be-ne-di-cá-mus
 Be-ne-dí-cant
 be-ne-di-cá-ris
-be-ne-di-cá-ris
 be-ne-dí-cas
 be-ne-dí-cat
 be-ne-di-cé-bant
@@ -2507,7 +2490,6 @@ be-ne-dí-xe-rit
 be-ne-di-xé-runt
 be-ne-dí-xi-mus
 Be-ne-di-xí-que
-be-ne-di-xís-ti
 be-ne-di-xís-ti
 be-ne-di-xit
 be-ne-dí-xit
@@ -2660,7 +2642,6 @@ bo-nó-rum
 bo-nos
 bó-num
 bo-nus
-bo-nus
 bo-o
 Bo-oz
 Bor-gi-æ
@@ -2722,8 +2703,6 @@ ca-det-que
 ca-dit
 Cá-di-te
 ca-do
-ca-do
-ca-do
 ca-dos
 ca-dú-ca
 ca-dú-cis
@@ -2766,8 +2745,6 @@ cæ-ló-rum
 cæ-lo-rúm-que
 cæ-los
 ca-e-lum
-cæ-lum
-cæ-lum
 cæ-lum
 cæ-ná-tum
 cæ-re-mo-ni-æ
@@ -3006,7 +2983,6 @@ cap-tu-i
 cap-tú-ra
 cap-tú-ram
 ca-put
-ca-put
 ca-put-que
 Ca-rac-ci-o-lo
 car-bo
@@ -3042,7 +3018,6 @@ ca-ri-tá-tis
 ca-ri-ta-tís-que
 Car-mé-li
 Car-me-lo
-car-men
 car-men
 cár-mi-na
 cár-mi-nis
@@ -3097,8 +3072,6 @@ cas-ti-tá-tem
 cas-ti-tá-tis
 cas-to
 cas-tos
-cas-tos
-cas-tra
 cas-tra
 cas-tra-vé-runt
 cas-tró-rum
@@ -3142,7 +3115,6 @@ cau-sa-ta
 cau-te
 cau-ti-ó-nem
 cau-to
-ca-væ-di-um
 ca-væ-di-um
 ca-ve-á-mus
 ca-ve-ant-que
@@ -3197,7 +3169,6 @@ ce-le-bra-tam
 ce-le-bra-tas
 ce-le-bra-ti
 ce-le-bra-ti-o
-ce-le-bra-ti-o
 ce-le-bra-ti-ó-ne
 ce-le-bra-ti-o-nem
 Ce-le-brá-tis
@@ -3249,9 +3220,7 @@ cen-te-ni
 cen-te-si-mi
 cen-te-si-mis
 cen-te-si-mus
-cen-te-si-mus
 cen-ti-es
-cen-tum
 cen-tum
 cén-tu-plum
 cen-tu-ri-o
@@ -3357,9 +3326,7 @@ Cho-ro
 cho-ros
 Cho-rum
 cho-rus
-cho-rus
 Chris-ma
-Chris-ma-te
 Chris-ma-te
 Chrís-ma-te
 Chrís-ma-tis
@@ -3424,7 +3391,6 @@ cin-na-mó-mum
 ci-pe
 ci-pis
 cir-ca
-cir-ci-ter
 cir-ci-ter
 cir-cu-í-bant
 Cir-cu-í-bat
@@ -3495,7 +3461,6 @@ cir-cum-ven-ti-ó-ne
 cir-cum-ven-ti-ó-nem
 cir-cúm-vo-let
 cis-al-pi-nus
-cis-al-pi-nus
 cis-rhe-na-nus
 cis-tér-nam
 ci-tha-ra
@@ -3543,7 +3508,6 @@ cla-má-vit
 cla-ment
 cla-mo
 cla-mor
-cla-mor
 cla-mó-re
 cla-mó-rem
 cla-mo-res
@@ -3579,7 +3543,6 @@ clau-di
 clau-dit
 cláu-di-te
 clau-di-tur
-clau-do
 clau-do
 clau-dó-rum
 clau-dos
@@ -3651,7 +3614,6 @@ co-cus
 co-di-ce
 co-di-ci-bus
 co-ë-gé-runt
-co-e-gi
 co-e-gi
 Cœ-me-te-ri-i
 cœ-me-té-ri-o
@@ -3815,7 +3777,6 @@ cól-li-git
 Col-lí-gi-te
 cól-li-go
 cól-li-gunt
-col-lis
 col-lis
 col-lí-si
 cól-li-um
@@ -3997,7 +3958,6 @@ Com-mu-ni-tas
 Com-mu-ni-ta-tis
 Com-mu-ni-ta-tum
 com-mu-ni-ter
-com-mu-ni-ter
 com-mu-tá-ti
 com-mu-ta-ti-ó-ne
 com-mu-ta-ti-ó-nem
@@ -4047,7 +4007,6 @@ com-plé-xans
 com-ple-xo
 com-ple-xus
 com-pli-ca-tur
-com-plu-res
 com-plu-res
 com-po-nén-di
 com-pó-nens
@@ -4456,7 +4415,6 @@ con-iun-gún-tur
 con-iun-xís-ti
 con-iún-xit
 con-iux
-con-iux
 con-néc-tis
 con-né-xum
 con-nú-bi-i
@@ -4520,7 +4478,6 @@ con-sen-ti-én-tes
 con-sen-ti-o
 con-sen-tí-tis
 con-se-púl-ti
-con-se-quá-mur
 con-se-quá-mur
 con-se-quán-tur
 cón-se-quar
@@ -4816,7 +4773,6 @@ con-ti-nén-ti-æ
 con-ti-nén-ti-am
 con-ti-nén-tur
 con-ti-ne-re
-con-ti-ne-re
 con-ti-ne-ret
 cón-ti-nes
 cón-ti-net
@@ -5062,7 +5018,6 @@ cór-po-ris
 cor-po-rís-que
 cór-po-rum
 cor-pus
-cor-pus
 Cor-pus
 cor-pús-que
 cor-rec-ta
@@ -5218,7 +5173,6 @@ cre-o
 cré-pu-it
 cre-pus-cu-lum
 cres-ca-mus
-cres-ca-mus
 cres-cá-mus
 Cres-cat
 cres-cá-tis
@@ -5266,7 +5220,6 @@ cru-ci-fi-xís-tis
 Cru-ci-fí-xo
 cru-ci-fí-xum
 cru-ci-fi-xus
-cru-ci-fi-xus
 cru-ci-fí-xus
 crú-ci-or
 cru-cis
@@ -5305,7 +5258,6 @@ cu-lis
 cúl-mi-ne
 cúl-mi-nis
 cu-lo
-cul-pa
 cul-pa
 cul-pæ
 cul-pá-rum
@@ -6026,8 +5978,6 @@ de-scen-dén-ti-bus
 de-scen-dén-ti-um
 de-scén-de-rant
 de-scen-de-re
-de-scen-de-re
-de-scen-de-re
 de-scén-de-re
 de-scén-de-ret
 de-scen-de-rit
@@ -6036,7 +5986,6 @@ de-scén-det
 de-scén-di
 de-scen-dís-set
 de-scen-dís-ti
-de-scen-dit
 de-scen-dit
 de-scén-dit
 de-scen-dít-que
@@ -6053,11 +6002,9 @@ dé-se-ras
 dé-se-rat
 dé-se-rens
 de-se-re-re
-de-se-re-re
 de-sér-ta
 de-sér-tæ
 de-sér-tas
-de-ser-to
 de-ser-to
 de-sér-to
 de-ser-tum
@@ -6127,12 +6074,9 @@ de-spe-ré-mus
 de-spé-xe-ris
 de-spé-xit
 de-spi-ce-re
-de-spi-ce-re
-de-spi-ce-re
 de-spí-ce-re
 de-spí-ci-ant
 de-spí-ci-as
-de-spi-ci-at
 de-spi-ci-at
 de-spí-ci-at
 de-spí-ci-ens
@@ -6144,11 +6088,9 @@ de-spo-li-a-vé-runt
 De-spón-di
 de-spon-sá-ta
 de-spon-sa-tæ
-de-spon-sa-tæ
 de-spon-sá-tam
 De-spon-sa-ti-ó-ne
 De-spon-sa-ti-ó-nis
-de-sti-na-re
 de-sti-na-re
 de-sti-na-ta
 de-sti-ná-tam
@@ -6263,7 +6205,6 @@ dex-tra
 dex-tris
 dex-tro
 dex-trum
-dex-trum
 di-á-bo-li
 di-a-bó-li-ca
 di-a-bó-li-cæ
@@ -6329,7 +6270,6 @@ di-cet
 di-cé-tis
 di-cé-tur
 di-cho-re-us
-di-cho-re-us
 di-ci
 dí-ci-mus
 dí-cis
@@ -6364,7 +6304,6 @@ di-dra-chma
 Dí-dy-mus
 di-e
 di-e-bus
-di-e-bus
 di-é-bus
 di-e-i
 di-é-i
@@ -6380,7 +6319,6 @@ dif-fe-rén-ti-us
 dif-fert
 dif-fer-tur
 dif-fi-ci-le
-dif-fi-ci-lis
 dif-fi-ci-lis
 dif-fi-cul-ter
 dif-fi-dén-ti-æ
@@ -6428,10 +6366,7 @@ di-gno
 di-gnor
 di-gnos
 di-gno-sce-re
-di-gno-sce-re
 di-gnum
-di-gnus
-di-gnus
 di-gnus
 Di-i
 di-is
@@ -6603,7 +6538,6 @@ Dis-cé-di-te
 dis-ce-do
 dis-ce-dunt
 dis-cep-to
-dis-cep-to
 dis-cér-ne
 dis-cér-nit
 dis-cer-no
@@ -6624,7 +6558,6 @@ dis-ci-plí-næ
 dis-ci-plí-nam
 dis-ci-plí-nis
 dis-cí-pu-li
-dis-ci-pu-lis
 dis-ci-pu-lis
 dis-cí-pu-lis
 dis-cí-pu-lo
@@ -6647,7 +6580,6 @@ di-scre-tim
 di-scré-ti-o
 di-scre-ti-ó-ne
 di-scre-ti-ó-nis
-di-scri-be-re
 di-scri-be-re
 di-scri-bo
 dis-cri-men
@@ -6697,12 +6629,10 @@ dis-pér-dens
 dis-pér-de-ret
 dis-pér-det
 dis-per-dit
-dis-per-dit
 dis-pe-re-o
 dis-per-gén-tur
 dis-per-ge-re
 dis-pér-git
-dis-per-go
 dis-per-go
 dis-pér-sa
 dis-pér-sæ
@@ -6714,8 +6644,6 @@ dis-pér-ti-am
 dis-per-ti-o
 dis-per-tí-tæ
 di-spi-ce-re
-di-spi-ce-re
-di-spi-ci-o
 di-spi-ci-o
 dis-pli-ce-o
 Dis-pó-nam
@@ -6730,7 +6658,6 @@ dis-pó-no
 dis-po-no
 dis-po-nun-tur
 dis-po-si-tæ
-dis-po-si-ti-o
 dis-po-si-ti-o
 dis-po-si-ti-ó-ne
 dis-po-si-ti-o-nem
@@ -6768,7 +6695,6 @@ dis-su-a-de-re
 di-stan-ti-a
 di-stan-ti-am
 di-stan-ti-am-que
-di-sta-re
 di-sta-re
 dis-tén-ti
 dis-tíl-lans
@@ -6808,7 +6734,6 @@ di-tem
 di-ti
 di-ti-ó-ne
 di-ti-ó-ni
-di-u
 di-u
 di-um
 di-úr-no
@@ -6877,7 +6802,6 @@ di-xé-ri-tis
 dí-xe-ro
 di-xé-runt
 di-xe-rúnt-que
-di-xi
 di-xi
 di-xi-mus
 di-xís-se
@@ -7195,10 +7119,8 @@ du-xi-mus
 du-xís-ti
 du-xit
 dys-co-lis
-dys-co-lis
 e-a
 é-a-dem
-e-æ
 e-æ
 e-æ-dem
 e-æ-que
@@ -7401,7 +7323,6 @@ e-gu-é-runt
 e-gu-i
 e-heu
 e-i
-e-i
 e-ia
 e-i-ce-re
 e-i-ci-o
@@ -7431,7 +7352,6 @@ e-is
 e-ís-dem
 e-ís-que
 e-iu-lá-tu
-e-ius
 e-ius
 e-iús-dem
 e-ius-dém-que
@@ -7608,7 +7528,6 @@ en-sis
 e-nun-ti-á-bit
 e-nú-tri-es
 e-nu-tri-et
-e-nu-tri-et
 e-nú-tri-et
 e-nu-tri-o
 e-nu-trí-tam
@@ -7679,7 +7598,6 @@ e-quis
 é-qui-tes
 e-quum
 e-quus
-e-quus
 e-ra-dá-mus
 e-ra-di-cá-bi-tur
 e-ra-di-cá-re
@@ -7689,7 +7607,6 @@ e-rá-mus
 e-rant
 e-ras
 E-rás-mi
-e-rat
 e-rat
 E-rá-tis
 E-rech-the-um
@@ -7758,7 +7675,6 @@ e-ru-án-tur
 é-ru-as
 é-ru-at
 e-ru-bes-cam
-e-ru-bes-cam
 e-ru-bés-cam
 E-ru-bés-cant
 e-ru-bés-cat
@@ -7770,7 +7686,6 @@ e-ru-bu-é-runt
 e-ru-bú-i-mus
 e-ruc-tá-bo
 e-ruc-tá-bunt
-e-ruc-ta-vit
 e-ruc-ta-vit
 E-ruc-tá-vit
 e-ru-di-á-mur
@@ -7806,17 +7721,14 @@ e-rú-pit
 es
 E-sau
 es-ca
-es-ca
 e-scæ
 es-cam
 es-cas
 es-cha-to
 e-scis
-e-scis
 Es-dræ
 Es-dras
 Es-ron
-es-se
 es-se
 es-sé-mus
 es-sent
@@ -7846,19 +7758,13 @@ e-su-rí-tis
 e-sú-ri-unt
 E-su-rí-vi
 et-e-nim
-et-e-nim
-et-e-nim
 é-te-nim
-et-e-nim
 é-thni-ci
 é-thni-cus
-e-ti-am
-e-ti-am
 e-ti-am
 é-ti-am
 e-ti-am-nunc
 e-ti-am-si
-et-si
 et-si
 Eu-cha-ris-ti-a
 Eu-cha-rís-ti-æ
@@ -7959,7 +7865,6 @@ e-vul-ga-ri
 ex-a-cer-bo
 ex-æs-tu-a-bat
 ex-al-ta
-ex-al-ta
 ex-ál-ta
 ex-al-tá-bis
 ex-al-tá-bit
@@ -8015,7 +7920,6 @@ ex-cæ-cá-vit
 ex-ce-dant
 ex-ce-dat
 ex-cé-dis
-ex-ce-dit
 ex-ce-dit
 ex-ce-do
 ex-cel-lén-ti
@@ -8122,8 +8026,6 @@ ex-er-cí-ti-bus
 ex-ér-ci-tu
 ex-ér-ci-tum
 ex-er-ci-tus
-ex-er-ci-tus
-ex-er-ci-tus
 ex-ér-ci-tus
 ex-er-cí-tu-um
 ex-er-cú-e-rat
@@ -8201,7 +8103,6 @@ ex-ís-ti-mat
 ex-is-ti-má-te
 Ex-is-ti-mé-mus
 ex-ís-ti-met
-ex-is-ti-mo
 ex-is-ti-mo
 Ex-ís-ti-mo
 ex-ís-tis
@@ -8362,7 +8263,6 @@ ex-spec-tan-do
 ex-spec-tan-dum
 Ex-spéc-tans
 ex-spec-tant
-ex-spec-tant
 ex-spéc-tant
 ex-spec-tán-tes
 ex-spec-tán-ti-bus
@@ -8390,7 +8290,6 @@ ex-spo-li-á-vit
 ex-spu-én-tes
 ex-spu-é-runt
 éx-spu-it
-ex-spu-to
 ex-spu-to
 ex-stant
 ex-stat
@@ -8630,7 +8529,6 @@ fa-mam
 fa-me
 fa-mem
 fa-mes
-fa-mes
 fa-mí-li-a
 fa-mí-li-æ
 fa-mí-li-am
@@ -8839,7 +8737,6 @@ fi-cu
 fi-cúl-ne-a
 fi-cúl-ne-am
 fi-cus
-fi-cus
 fi-da
 fi-de
 fí-de-i
@@ -8859,7 +8756,6 @@ fi-dé-li-um
 fi-dé-li-us
 fi-dem
 fi-den-tes-que
-fi-des
 fi-des
 fi-du-ci-a
 fi-dú-ci-a
@@ -9025,7 +8921,6 @@ Flo-ri-ber-ti
 Flo-ri-bér-to
 fló-ri-bus
 flo-ru-e-runt
-flo-ru-e-runt
 fló-ru-it
 flos
 flu-at
@@ -9181,7 +9076,6 @@ frán-gi-mus
 fran-git
 fran-go
 fran-gun-tur
-fran-gun-tur
 fra-ter
 Fra-tér-na
 fra-tér-ni-tas
@@ -9238,7 +9132,6 @@ frón-ti-bus
 fru-á-mur
 fru-á-tur
 frúc-ti-bus
-fruc-ti-fe-ra
 fruc-ti-fe-ra
 fruc-tí-fe-ra
 fruc-ti-fi-cán-tes
@@ -9311,7 +9204,6 @@ ful-ge-o
 ful-get
 ful-gó-ri-bus
 ful-gó-ris
-ful-gur
 ful-gur
 fúl-gu-ra
 fúl-gu-ris
@@ -9662,12 +9554,10 @@ gra-na
 gran-dem
 grán-di-a
 gran-dis
-gran-dis
 gran-do
 gra-nis
 gra-no
 gra-no-rum
-gra-num
 gra-num
 gra-ta
 gra-tæ
@@ -9768,7 +9658,6 @@ ha-be-á-mus
 há-be-ant
 ha-be-an-tur
 há-be-as
-ha-be-at
 ha-be-at
 há-be-at
 ha-be-á-tis
@@ -10068,11 +9957,9 @@ Ho-sán-na
 hos-pes
 Hos-pi-tá-les
 hos-pi-ta-li-ta-tem
-hos-pi-ta-li-ta-tem
 Hos-pi-ta-li-tá-tem
 Hos-pi-ta-li-um
 hós-pi-tem
-hos-pi-tes
 hos-pi-tes
 hós-pi-tes
 hos-pí-ti-o
@@ -10258,7 +10145,6 @@ ie-iú-ni-o
 ie-iu-ni-ó-rum
 ie-iu-nis
 ie-iu-ni-um
-ie-iu-ni-um
 ie-iú-ni-um
 ie-iu-no
 Ie-iú-no
@@ -10328,8 +10214,6 @@ il-la-que
 il-lá-rum
 il-las
 il-lá-tis
-il-le
-il-le
 il-le
 il-lé-ce-bras
 il-léc-tus
@@ -10765,7 +10649,6 @@ in-ci-dé-ri-tis
 ín-ci-dit
 ín-ci-dunt
 in-ci-pe-re
-in-ci-pe-re
 in-cí-pi-ant
 in-cí-pi-as
 in-cí-pi-at
@@ -10874,7 +10757,6 @@ ind-e-fés-sa
 ind-e-fí-ci-ens
 ind-e-fi-ci-én-tem
 ind-em-ni-ta-tis
-ind-ep-tus
 ind-ep-tus
 ind-e-que
 ind-e-si-nén-ter
@@ -11194,7 +11076,6 @@ in-i-mi-cí-ti-æ
 In-i-mi-cí-ti-as
 in-i-mi-có-rum
 in-i-mi-cos
-in-i-mi-cos
 in-i-mí-cum
 in-i-mi-cus
 in-i-mí-cus
@@ -11513,7 +11394,6 @@ in-ter-dic-ti
 in-ter-dic-tum
 in-ter-dum
 in-te-re-a
-in-te-re-a
 In-té-re-a
 in-te-re-mís-ti
 in-te-res-se
@@ -11749,7 +11629,6 @@ in-víc-tum
 In-vi-dé-bant
 in-vi-dén-tes
 in-vi-de-re
-in-vi-de-re
 in-vi-de-rúnt-que
 ín-vi-det
 in-ví-di-a
@@ -11853,7 +11732,6 @@ ip-se-met
 ip-si
 ip-sis
 ip-si-us
-ip-si-us
 ip-sí-us
 ip-so
 ip-só-rum
@@ -11949,7 +11827,6 @@ is-tuc
 is-tud
 is-tum
 i-ta
-i-ta-que
 i-ta-que
 í-ta-que
 i-te
@@ -12053,7 +11930,6 @@ iu-gi
 iú-gi-ter
 iu-go
 iu-gum
-iu-gum
 Iu-li-á-na
 Iu-li-á-næ
 Iu-li-á-nam
@@ -12111,7 +11987,6 @@ ius-sit
 ius-su
 ius-ta
 ius-te
-ius-te
 Iús-ti
 ius-ti-fi-cá-bit
 ius-ti-fi-cá-bi-tur
@@ -12131,7 +12006,6 @@ Ius-ti-nia-ni
 Ius-tí-num
 Ius-tí-nus
 ius-tis
-ius-ti-ti-a
 ius-ti-ti-a
 ius-tí-ti-a
 ius-tí-ti-æ
@@ -12175,7 +12049,6 @@ lá-bi-is
 la-bi-o
 la-bi-ó-rum
 lá-bi-tur
-la-bi-um
 la-bi-um
 la-bor
 la-bó-ra
@@ -12294,7 +12167,6 @@ lan-guens
 lan-guén-ti-um
 lan-gue-o
 lán-gue-o
-lan-gu-e-re
 lan-gu-e-re
 lan-gues-co
 lan-guet
@@ -12432,7 +12304,6 @@ lau-di
 láu-di-bus
 lau-dis
 lau-do
-lau-do
 Lau-dum
 láu-re-a
 láu-re-am
@@ -12494,8 +12365,6 @@ Lec-ti-o-ni-bus
 Lec-ti-o-nis
 Lec-ti-o-num
 lec-tis
-lec-ti-ster-ni-um
-lec-ti-ster-ni-um
 lec-ti-ster-ni-um
 lec-to
 lec-tor
@@ -12683,7 +12552,6 @@ li-cen-ti-am
 li-cen-ti-is
 li-cé-re
 li-cet
-li-cet
 li-ci-te
 li-ci-tum
 li-cus
@@ -12808,7 +12676,6 @@ lon-gi-tu-do
 lon-gi-tú-do
 lón-gi-us
 lon-gi-vus
-lon-gi-vus
 lo-quá-mi-ni
 lo-quán-tur
 lo-quar
@@ -12835,7 +12702,6 @@ lo-qui
 Lo-quí-mi-ni
 Ló-qui-mur
 ló-qui-tur
-lo-quor
 lo-quor
 lo-quún-tur
 lo-rí-cam
@@ -13166,10 +13032,8 @@ ma-ni-fes-ta-ti-ó-ne
 ma-ni-fes-tá-tus
 Ma-ni-fes-tá-vi
 ma-ni-fes-tá-vit
-ma-ni-fes-tá-vit
 Ma-ni-fes-tá-vit
 ma-ni-fés-te
-ma-ni-fes-ten-tur
 ma-ni-fes-ten-tur
 ma-ni-fes-tén-tur
 ma-ni-fes-té-tur
@@ -13193,7 +13057,6 @@ man-su-é-ti
 man-su-é-tis
 man-su-é-tos
 man-su-e-tú-di-ne
-man-su-e-tu-di-nem
 man-su-e-tu-di-nem
 man-su-e-tú-di-nem
 man-su-e-tú-di-nis
@@ -13369,7 +13232,6 @@ me-di-us
 mé-di-us
 me-dúl-las
 me-i
-me-i
 me-íp-so
 me-íp-sum
 me-is
@@ -13428,7 +13290,6 @@ Men-gól-di
 Men-na
 Men-næ
 mens
-men-sa
 men-sa
 men-sæ
 men-sam
@@ -13513,7 +13374,6 @@ mes-sem
 Mes-sí-am
 Mes-sí-as
 mes-sis
-mes-sis
 més-si-um
 mes-só-rem
 mes-só-ri-bus
@@ -13557,7 +13417,6 @@ mi-gra-ti-ó-ne
 mi-grá-vit
 mi-hi
 mi-hí-que
-mi-les
 mi-les
 mi-li-es
 mí-li-tans
@@ -13624,7 +13483,6 @@ mi-nís-tret
 mi-nís-tri
 mi-nís-tris
 mi-nis-tro
-mi-nis-tro-rum
 mi-nis-tro-rum
 mi-nis-tró-rum
 mi-nís-tros
@@ -13769,7 +13627,6 @@ mi-ti-gán-do
 mi-ti-gán-tes
 mi-ti-gás-ti
 mi-ti-gá-tis
-mi-tis
 mi-tis
 mi-tís-si-me
 mi-tra
@@ -13992,7 +13849,6 @@ mul-tam
 mul-tá-rum
 mul-tas
 mul-tas-que
-mul-tas-que
 mul-ti
 Mul-ti-fá-ri-am
 Mul-ti-fá-ri-e
@@ -14167,7 +14023,6 @@ nar-rén-tur
 nar-ro
 na-sce-ré-tur
 na-sce-tur
-na-sce-tur
 na-scé-tur
 na-sci
 nas-cor
@@ -14280,7 +14135,6 @@ Ne-he-mí-as
 né-mi-nem
 Né-mi-ni
 Ne-mo
-nem-pe
 nem-pe
 Ne-po-mu-ce-ni
 ne-pó-tes
@@ -14453,7 +14307,6 @@ nos-que
 nos-se
 nos-set
 nos-ter
-nos-ter
 nos-ti
 nos-tis
 nos-tra
@@ -14461,7 +14314,6 @@ nos-træ
 nos-tram
 nos-trá-rum
 nos-tras
-nos-tri
 nos-tri
 nos-tris
 nos-tro
@@ -14488,7 +14340,6 @@ no-ti-ti-am
 no-tos
 No-tum
 no-tus
-no-tus
 no-va
 no-væ
 no-vam
@@ -14501,7 +14352,6 @@ No-vem-ber
 No-vem-bri
 No-vem-bri-bus
 no-vem-bris
-no-vem-bris
 no-vem-de-cim
 no-ve-ni
 nó-ve-rant
@@ -14510,7 +14360,6 @@ nó-ve-rim
 no-ve-rit
 no-vé-runt
 no-vi
-no-vi-es
 no-vi-es
 No-vi-lu-nia
 No-vi-lu-ni-is
@@ -14657,7 +14506,6 @@ O-be-dí-vi
 o-be-dí-vi-mus
 ob-er-rá-rem
 ob-fi-di-re
-ob-fi-di-re
 ob-i-ci-o
 ob-ie-ci
 ob-i-e-rit
@@ -14689,11 +14537,9 @@ ob-lec-ta-ti-ó-nem
 ob-li-ga-ti
 ob-li-ga-ti-o
 ob-li-no
-ob-li-no
 ob-lí-ta
 ob-lí-tus
 ob-li-tus
-ob-li-vi-o
 ob-li-vi-o
 ob-lí-vi-o
 ob-li-vi-ó-ne
@@ -14701,14 +14547,11 @@ ob-li-vi-ó-sus
 ob-li-vís-car
 ob-li-vis-cá-ris
 ob-li-vi-sce-ris
-ob-li-vi-sce-ris
-ob-li-vi-sce-ris
 ob-li-ví-sce-ris
 ob-li-vi-scé-tur
 ob-li-ví-sci
 ob-li-vis-cor
 ob-lon-ga
-ob-lon-gus
 ob-lon-gus
 ob-mu-té-sce-re
 ob-mu-té-scet
@@ -14718,7 +14561,6 @@ ob-œ-di-ens
 ob-œ-di-o
 ob-œ-di-re
 ób-ru-ent
-ob-ru-e-re
 ob-ru-e-re
 ob-ru-o
 ob-scu-rá-bi-tur
@@ -14795,7 +14637,6 @@ Ob-tu-lís-tis
 ob-tu-ra-vé-runt
 ob-úm-bra
 ob-um-bra-bit
-ob-um-bra-bit
 ob-um-brá-bit
 ob-um-brán-ti-a
 ob-um-brá-ret
@@ -14822,7 +14663,6 @@ Oc-ci-den-tá-le
 Oc-ci-dén-te
 Oc-ci-dén-tem
 oc-ci-de-re
-oc-ci-de-re
 oc-cí-de-re
 oc-cí-de-rit
 oc-ci-dé-runt
@@ -14837,7 +14677,6 @@ oc-ci-dís-tis
 oc-cí-dit
 oc-cí-di-te
 oc-cí-di-tur
-oc-ci-do
 oc-ci-do
 oc-cí-dunt
 oc-cí-sa
@@ -14920,7 +14759,6 @@ O-dam
 ó-de-rit
 o-dé-runt
 o-di
-o-di
 ó-di-a
 O-di-én-tes
 o-di-é-tur
@@ -14931,7 +14769,6 @@ o-dís-se
 o-dís-ti
 o-dit
 o-di-um
-o-dor
 o-dor
 o-do-ra-men-tó-rum
 o-dó-re
@@ -15038,7 +14875,6 @@ om-ni-po-tén-ti-am
 om-ni-po-tén-tis
 om-ní-que
 om-nis
-om-nis
 om-nís-que
 óm-ni-um
 om-ni-úm-que
@@ -15110,7 +14946,6 @@ o-pi-ni-ó-nes
 o-pi-tu-la-ti-ó-nes
 o-pór-te-at
 o-por-té-bat
-o-por-tet
 o-por-tet
 o-pór-tet
 o-pór-tu-it
@@ -15284,7 +15119,6 @@ or-to
 or-tu
 or-tum
 or-tus
-or-tus
 o-sci-tá-vit
 os-cu-la-bá-tur
 os-cu-lan-do
@@ -15296,7 +15130,6 @@ os-cu-lan-tur
 os-cu-la-ré-tur
 os-cu-lá-ri
 os-cu-la-ta
-os-cu-la-tæ
 os-cu-la-tæ
 os-cu-lá-tæ
 os-cu-la-ta-que
@@ -15374,9 +15207,6 @@ pac-tum
 Pa-du-a
 pæ-da-go-gó-rum
 pæ-ne
-pæn-in-su-la
-pæn-in-su-la
-pæn-in-su-la
 pæn-in-su-la
 pæ-ni-té-bit
 Pæ-ni-té-mi-ni
@@ -15480,7 +15310,6 @@ par-cens
 pár-ce-re
 par-cet
 par-co
-par-co
 pa-ré-bit
 pa-ré-bunt
 pa-rens
@@ -15571,7 +15400,6 @@ pá-sce-ret
 pa-scé-ris
 pa-scet
 Pas-cha
-Pas-cha
 Pas-chæ
 pas-chá-le
 Pas-chá-lem
@@ -15636,7 +15464,6 @@ Pa-té-nas
 pa-té-nis
 pa-te-o
 pa-ter
-pa-ter
 pa-té-ret
 pa-te-ré-tur
 pa-ter-fa-mí-li-as
@@ -15674,7 +15501,6 @@ pa-trá-rat
 Pa-tre
 Pa-trem
 pa-trem-fa-mí-li-as
-pa-tres
 pa-tres
 Pa-tri
 pa-tri-a
@@ -15804,7 +15630,6 @@ pe-dis
 pe-dum
 pe-i-ó-ra
 pe-ius
-pe-ius
 pé-la-gi
 pel-lá-tur
 pel-lén-dos
@@ -15830,7 +15655,6 @@ pen-de-re
 pen-det
 pe-ne
 pe-nes
-pe-nes
 pe-ne-trá-li-a
 pe-ne-trá-li-bus
 pe-ne-trá-re
@@ -15843,7 +15667,6 @@ pen-nis
 pen-si
 Pen-te-cos-te
 Pen-te-cos-ten
-pen-te-cos-tes
 pen-te-cos-tes
 Pen-te-cós-tes
 pe-nul-ti-mo
@@ -16059,7 +15882,6 @@ per-hí-bu-i
 per-hí-bu-it
 per-í-bi-mus
 per-í-bit
-per-i-bunt
 per-i-bunt
 per-í-bunt
 pe-rí-cu-la
@@ -16281,7 +16103,6 @@ pe-tí-vi
 pe-tí-vit
 pe-to
 pe-tra
-pe-tra
 pe-træ
 pe-tram
 Pe-tre
@@ -16312,8 +16133,6 @@ Phi-líp-pi
 Phi-líp-po
 Phi-líp-pum
 Phi-líp-pus
-phi-lo-so-phus
-phi-lo-so-phus
 phi-lo-so-phus
 Phi-lu-me-næ
 phy-lac-té-ri-a
@@ -16508,7 +16327,6 @@ plu-o
 plu-ra
 plu-ra-li
 plu-res
-plu-res
 plú-ri-bus
 plú-ri-ma
 plu-ri-mi
@@ -16684,7 +16502,6 @@ Por-tu
 por-tum
 pos-cat
 po-sce
-po-sce
 po-scen-da
 po-scén-ti-bus
 pó-sci-mus
@@ -16749,7 +16566,6 @@ pos-te-á-quam
 pos-tem
 pós-te-ri
 pos-te-ri-or
-pos-te-ri-or
 pos-te-ri-o-rem
 pos-te-ri-o-res
 pos-te-ri-tá-tis
@@ -16757,7 +16573,6 @@ pos-te-ri-us
 pós-te-rum
 pos-tes
 post-ha-be-o
-post-hac
 post-hac
 pos-tí-cum
 post-me-ri-di-a-na
@@ -17003,7 +16818,6 @@ præ-est
 præ-fa-ta
 præ-fa-tam
 præ-fa-ti-o
-præ-fa-ti-o
 Præ-fa-ti-o
 Præ-fa-ti-o-ne
 Præ-fa-ti-o-nem
@@ -17103,7 +16917,6 @@ præ-scrip-ti-o-ne
 præ-scrip-tis
 præ-scrip-to
 præ-scrip-tum
-præ-sens
 præ-sens
 præ-sen-tá-ri
 præ-sen-tás-ti
@@ -17342,7 +17155,6 @@ prís-ti-nos
 pris-ti-num
 pri-us
 pri-us-quam
-pri-us-quam
 Pri-ús-quam
 pri-vá-bit
 pri-va-ta
@@ -17437,7 +17249,6 @@ prod-e-o
 pró-de-rit
 pró-de-runt
 prod-es-se
-prod-es-se
 pro-dés-se
 pro-dest
 prod-i-ge-re
@@ -17481,7 +17292,6 @@ pro-fe-rén-dæ
 pro-fe-ré-tur
 pro-fe-ro
 Pró-fe-ro
-pro-fer-re
 pro-fer-re
 pro-fert
 pro-fér-te
@@ -17572,7 +17382,6 @@ pro-ií-ci-et
 pro-ii-ci-é-tis
 pro-ií-ci-te
 pro-ii-ci-un-tur
-pro-in-de
 pro-in-de
 pro-la-be-ren-tur
 pro-la-tis
@@ -17764,7 +17573,6 @@ pro-tec-ti-ó-nem
 pro-tec-ti-ó-nis
 pro-tec-tor
 pro-téc-tor
-pro-tec-to-rem
 pro-tec-to-rem
 pro-tec-tó-rem
 pró-te-gam
@@ -17979,7 +17787,6 @@ pu-rí-fi-cas
 pu-ri-fi-cat
 pu-ri-fi-cá-tæ
 pu-ri-fi-ca-ti-o
-pu-ri-fi-ca-ti-o
 Pu-ri-fi-ca-ti-o-ne
 pu-ri-fi-ca-ti-ó-nem
 pu-ri-fi-ca-ti-ó-ni-bus
@@ -18050,7 +17857,6 @@ qua-dra-ge-si-má-lis
 Qua-dra-ge-si-mam
 qua-dra-gín-ta
 qua-drans
-qua-drans
 qua-drin-gen-ti
 qua-drin-gen-tis
 qua-drin-gén-tos
@@ -18108,11 +17914,9 @@ quam
 quam-cúm-que
 quam-dam
 quam-di-u
-quam-di-u
 Quám-di-u
 quam-du-dum
 quam-li-bet
-quam-ob-rem
 quam-ob-rem
 Quam-ob-rem
 quam-quam
@@ -18130,7 +17934,6 @@ quan-tum
 quan-tum-cum-que
 quan-túm-vis
 Quan-tus
-qua-prop-ter
 qua-prop-ter
 Qua-próp-ter
 qua-re
@@ -18189,13 +17992,10 @@ qui-cum-que
 qui-cúm-que
 quid
 qui-dam
-qui-dam
 qui-dem
 quid-nam
 quíd-pi-am
 quid-quam
-quid-quam
-quid-quid
 quid-quid
 quies
 quiés-cat
@@ -18229,7 +18029,6 @@ Quin-qua-ge-si-mam
 quin-qua-gín-ta
 quin-que
 quin-quen-ni-um
-quin-quen-ni-um
 quin-quies
 quín-quies
 Quin-ta
@@ -18244,21 +18043,16 @@ quip-pe
 qui-que
 quis
 quis-nam
-quis-nam
 quis-pi-am
 quís-pi-am
 quis-quam
-quis-quam
 quis-que
-quis-que
-quis-quis
 quis-quis
 quit
 qui-tas
 quí-vi-mus
 qui-vis
 quo
-quo-ad
 quo-ad
 quo-ad-ús-que
 quo-cum-que
@@ -18548,7 +18342,6 @@ réd-di-tur
 red-di-tú-ri
 réd-di-tus
 red-do
-red-do
 red-dunt
 réd-e-ant
 red-é-git
@@ -18592,7 +18385,6 @@ ré-di-mit
 re-di-mo
 red-i-re
 re-dí-re
-red-i-re
 re-dí-rent
 re-dí-ret
 red-it
@@ -18600,8 +18392,6 @@ réd-i-tum
 red-i-tur
 red-o-lés-cat
 re-do-na-re
-re-do-na-re
-re-dor-mi-re
 re-dor-mi-re
 re-dú-cam
 re-du-ce-re
@@ -19146,7 +18936,6 @@ Re-spón-sum
 re-spon-sú-ra
 re-spu-én-tes
 re-spu-e-re
-re-spu-e-re
 re-spú-e-re
 ré-spuis
 re-stat
@@ -19330,7 +19119,6 @@ re-vól-vit
 rhy-thmi
 rhy-thmus
 rhyt-mus
-rhyt-mus
 ri-a
 ri-æ
 ri-bus
@@ -19428,7 +19216,6 @@ ro-re
 ro-rem
 ro-res
 ro-ris
-ro-sa
 ro-sa
 ro-sa-ce-a
 Ro-sæ
@@ -19795,7 +19582,6 @@ sanc-tó-rum-que
 Sanc-tos
 sanc-tu-á-ri-o
 sanc-tu-a-ri-um
-sanc-tu-a-ri-um
 sanc-tu-á-ri-um
 sanc-tum
 sanc-tus
@@ -19808,8 +19594,6 @@ san-guí-ni-bus
 Sán-gui-nis
 San-gui-nís-que
 sán-gui-num
-san-guis
-san-guis
 san-guis
 San-guis
 sa-ni
@@ -19902,7 +19686,6 @@ Sau-li
 Sau-lo
 Sau-lum
 Sau-le
-Sau-lo
 Sa-ve-ni-er
 sa-xum
 sca-bél-lum
@@ -19929,7 +19712,6 @@ scé-le-ra
 sce-le-rá-tis
 scé-le-re
 scé-le-rum
-sce-lus
 sce-lus
 Sce-no-pé-gi-a
 scep-trum
@@ -20103,7 +19885,6 @@ se-dé-ret
 sé-de-rit
 Se-dé-runt
 se-des
-se-des
 se-det
 Se-dé-te
 se-di
@@ -20158,7 +19939,6 @@ se-met-íp-sa
 se-met-íp-sis
 se-met-íp-so
 se-met-íp-sos
-se-met-ip-sum
 se-met-ip-sum
 se-met-íp-sum
 se-mi-con-se-cra-tum
@@ -20277,7 +20057,6 @@ sep-tem
 Sep-tem-ber
 Sep-tem-bris
 sep-te-na-ri-um
-sep-te-na-ri-um
 sep-te-ná-ri-um
 sep-ten-de-cim
 sep-te-ni
@@ -20338,7 +20117,6 @@ se-qués-tra
 se-qui
 sé-qui-mur
 sé-qui-tur
-se-quor
 se-quor
 se-quun-tur
 se-quún-tur
@@ -20483,7 +20261,6 @@ Si-chem
 Sí-chi-mis
 Sic-que
 si-cu-bi
-sic-ut
 sic-ut
 sí-cu-ti
 si-de
@@ -20658,7 +20435,6 @@ si-tí-mus
 si-ti-o
 Sí-ti-o
 si-tis
-si-tis
 si-tit
 sí-ti-unt
 si-tí-vi
@@ -20666,7 +20442,6 @@ Si-tí-vit
 sit-que
 si-um
 si-us
-si-ve
 si-ve
 Sla-vó-ni-æ
 Sma-rág-di
@@ -20772,7 +20547,6 @@ so-los
 so-lum
 so-lúm-mo-do
 so-lus
-so-lus
 so-lú-ta
 so-lu-ti-ó-nem
 so-lú-tis
@@ -20806,7 +20580,6 @@ som-ni-ó-rum
 som-nis
 sóm-ni-um
 som-no
-som-num
 som-num
 so-nans
 so-nan-tis
@@ -20909,7 +20682,6 @@ spér-ne-re
 sper-nis
 sper-nit
 spe-ro
-spe-ro
 spes
 spi-cá-rum
 spi-cu-la-tó-re
@@ -20947,7 +20719,6 @@ splen-dén-ti
 splen-dé-sce-re
 splen-det
 splén-di-de
-splen-dor
 splen-dor
 splen-dó-re
 splen-dó-rem
@@ -21003,7 +20774,6 @@ stá-di-o
 sta-di-ó-rum
 sta-di-um
 sta-gnum
-sta-gnum
 sta-mus
 stan-di
 Sta-nis-lá-i
@@ -21022,8 +20792,6 @@ sta-ret
 stat
 sta-te
 sta-té-ra
-sta-tim
-sta-tim
 sta-tim
 Sta-tím-que
 Sta-ti-o
@@ -21105,7 +20873,6 @@ sto-lam
 sto-las
 sto-lis
 Stra-gu-lá-tam
-stran-gu-lo
 stran-gu-lo
 stra-to
 stra-vé-runt
@@ -21210,7 +20977,6 @@ Súb-iit
 sub-in-de
 sub-i-re
 sub-í-re
-sub-it
 sub-i-ta-ti-ó-ne
 súb-i-to
 sub-iu-gá-lis
@@ -21384,14 +21150,12 @@ Sum-mo-rum
 Sum-mos
 Sum-mum
 sum-mus
-sum-mus
 su-mo
 sump-sé-ri-mus
 súmp-se-rint
 sump-se-rit
 sump-sé-runt
 sump-si
-sump-si-mus
 sump-si-mus
 súmp-si-mus
 sump-sit
@@ -21411,7 +21175,6 @@ su-mús-que
 Su-na-mí-ti-dem
 Su-na-mí-tis
 sunt
-sun-to
 sun-to
 su-o
 su-ó-rum
@@ -21517,7 +21280,6 @@ sup-ple-a-tur
 sup-ple-mén-tum
 sup-ple-re
 sup-plet
-sup-plex
 sup-plex
 sup-pli-cán-di
 sup-pli-cán-tem
@@ -21656,7 +21418,6 @@ su-spé-xit
 su-spi-ce-re
 su-spí-ci-ens
 su-spi-ci-en-tes
-su-spi-ci-en-tes
 su-spi-ran-tem
 su-spí-ri-a
 su-spi-ro
@@ -21727,7 +21488,6 @@ ta-ber-ná-cu-lo
 ta-ber-na-cu-lum
 ta-ber-ná-cu-lum
 ta-be-scet
-ta-be-scet
 Ta-bu-la
 tá-bu-læ
 ta-bu-lam
@@ -21757,7 +21517,6 @@ ta-lis
 tá-li-ter
 tá-li-um
 ta-lum
-tam-di-u
 tam-di-u
 tam-en
 tam-et-si
@@ -21802,8 +21561,6 @@ Ta-xán-dri-am
 tec-ta
 tec-tis
 tec-to
-tec-tum
-tec-tum
 tec-tum
 te-cum
 te-gá-mur
@@ -21859,7 +21616,6 @@ tem-po-ri
 tem-pó-ri-bus
 tém-po-ris
 tém-po-rum
-temp-to
 temp-to
 tem-pus
 ten-dá-mus
@@ -22003,7 +21759,6 @@ ter-ti-us
 tér-ti-us
 te-rum
 ter-un-ci-us
-ter-un-ci-us
 tes-ta
 tes-ta-mén-ta
 tes-ta-mén-ti
@@ -22044,7 +21799,6 @@ té-ti-git
 te-trár-cha
 Te-trár-chæ
 te-xi
-tex-tor
 tex-tor
 tex-tum
 tex-tus
@@ -22302,7 +22056,6 @@ tran-quil-li-tá-tem
 tran-quil-li-tá-ti-bus
 tran-quíl-lo
 trans-ab-i-re
-trans-ab-i-re
 tran-scri-bo
 trans-e-á-mus
 tráns-e-at
@@ -22345,7 +22098,6 @@ trans-í-bo
 trans-í-bunt
 tráns-iens
 trans-ie-rat
-trans-ie-rat
 trans-ié-runt
 trans-i-ge-ren-tur
 tráns-iit
@@ -22385,7 +22137,6 @@ trans-tu-lís-ti
 tráns-tu-lit
 trans-ue-re
 tran-sump-tis
-trans-us-que
 trans-us-que
 trans-ver-be-rá-tur
 trans-ver-sam
@@ -22479,7 +22230,6 @@ tri-pli-ci
 Tris-tá-tur
 tris-te
 tris-tes
-tris-tis
 tris-tis
 tris-ti-ti-a
 tris-tí-ti-a
@@ -22618,7 +22368,6 @@ u-ber-tá-tem
 u-bi
 u-bi-cum-que
 u-bi-cúm-que
-u-bi-que
 u-bi-que
 u-bí-que
 úl-ce-ra
@@ -22796,7 +22545,6 @@ u-ter
 ú-te-ris
 ú-te-ro
 u-ter-que
-u-ter-que
 u-tér-que
 u-te-rus
 u-té-tur
@@ -22853,7 +22601,6 @@ Va-de
 va-dis
 va-dit
 va-do
-va-frum
 va-frum
 va-gí-nam
 va-git
@@ -22951,7 +22698,6 @@ ve-lint
 ve-lis
 ve-lit
 vel-lán-tur
-vel-le
 vel-le
 vel-lén-ti-bus
 vel-let
@@ -23413,7 +23159,6 @@ vín-cu-lum
 vin-dé-mi-a
 vin-dé-mi-am
 vin-dex
-vin-dex
 vín-di-ca
 vin-di-cá-vit
 vin-díc-ta
@@ -23516,12 +23261,10 @@ ví-si-tem
 ví-si-tet
 vi-si-to
 vis-ne
-vis-ne
 vi-so
 vi-su
 vi-sum
 vi-sú-rum
-vi-sus
 vi-sus
 vit
 vi-ta
