@@ -67,8 +67,8 @@ def dotest_accents(filename):
 			if not resnoacc == deacc(resacc):
 				printError(resacc, resnoacc, baseacc)
 
-dotest('proofreading-Claudio-2.txt')
-print('\n')
+#dotest('proofreading-Claudio-2.txt')
+#print('\n')
 dotest('proofreading-Solesmes-1.txt')
 print('\n')
 dotest('proofreading-Solesmes-2.txt')

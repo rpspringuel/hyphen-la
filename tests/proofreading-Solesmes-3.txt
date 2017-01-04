@@ -996,7 +996,7 @@ dis-ter-mi-no
 dis-ti-chon
 dis-ti-ne-o
 dis-tor-tus
-dis-tra-cti-o
+dis-trac-ti-o
 dis-tra-ho
 dis-tri-bu-o
 dis-tri-bu-ti-o
@@ -1978,6 +1978,7 @@ præ-i-ens
 præ-ia-ce-o
 præ-ia-ci-o
 præ-iac-to
+præ-iec-ti-vus
 præ-ii-ci-o
 præ-iu-di-ca-tus
 præ-iu-di-co
