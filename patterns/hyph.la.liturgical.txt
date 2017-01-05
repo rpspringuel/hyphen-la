@@ -966,8 +966,8 @@
 .se3s4cen
 .ses2c1u4n
 .se4u.
-.si2c1u4t3
-.sí2c1u4t3
+.si2c1ut
+.sí2c1ut
 .si3s2ten
 .s2m
 .sta3g2n
