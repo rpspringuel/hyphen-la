@@ -1591,11 +1591,11 @@ RIGHTHYPHENMIN 2
 .sescu3
 .se4u.
 .seu1
-.si2c1u4t3
+.si2c1u1t
 .si1
 .si1c
 .sicu3
-.sí2c1u4t3
+.sí2c1u1t
 .sí1
 .sí1c
 .sícu3
@@ -2009,11 +2009,8 @@ ae1
 æ3u1
 æ3ú1
 ǽ3u1
-a1i2a1
-ai1
-ái2a1
-ái1
 ai2e1
+ai1
 ai2é1
 ai4i1
 ai2o1
@@ -2026,6 +2023,7 @@ aí1
 a3i4t.
 ai1t
 á3i4t.
+ái1
 ái1t
 ai2u1
 ái2u1
