@@ -839,8 +839,8 @@
 .quó6n3iam
 .quo2t1an
 .quo2t1en
-.quo2t1i4e
-.quó2t1i4e
+.quo2t1i
+.quó2t1i
 .quo2t3li
 .r2
 .ra2y
@@ -1665,16 +1665,10 @@ tru3um.
 tru3us.
 2ts
 2tt
-tu3æ
-tu5ant.
-tu3is.
-tu3it.
-tu3u
 u1
 ú1
 ü1
 ú5a
-u5ant.
 u3é
 ú5e
 u3e.

@@ -51,6 +51,7 @@ an-nus
 an-ti-de-a
 An-ti-o-chi-am
 an-ti-qui-us
+ap-pro-pin-quant
 ar-chan-ge-lo
 ar-gu-an-tur
 as-pe-ro
@@ -155,11 +156,16 @@ ex-is-ti-mo
 ex-spec-tant
 ex-spu-to
 ex-ta-re
+ex-tin-gue-re
+ex-tin-guens
+ex-tin-gui-to
+ex-tin-guo
 fac-tum
 fac-tus
 fe-bris
 fe-lix
 fer-re
+fi-ant
 fi-cul-ne-a
 flo-ru-e-runt
 fruc-ti-fe-ra
@@ -174,6 +180,7 @@ hos-pi-ta-li-ta-tem
 hos-pi-tes
 hu-ius
 i-is-dem
+i-sa-i-as
 id-e-o	% ét
 ie-iu-ni-um
 il-le
@@ -195,7 +202,6 @@ ind-u-e-re	% ét
 ip-se
 ip-si-us
 ip-sum
-i-sa-i-as
 is-ta
 is-thmus
 ius-ti-ti-a
@@ -255,6 +261,7 @@ nos-ter
 nos-tri
 nos-tris
 nos-trum
+nun-ti-ant
 o-por-tet
 ob-fi-di-re
 ob-i-i
@@ -288,6 +295,10 @@ per-i-bunt
 per-man-sis-ti
 phi-lo-so-phus
 pi-scis
+pin-gue
+pin-gui
+pin-gui-a
+pneu-ma-tis
 po-sce
 pos-sum
 pot-e-rit
@@ -316,8 +327,19 @@ pul-vis
 pæn-in-su-la
 qua-drans
 quin-quen-ni-um
-quon-i-am
+quo-ta
+quo-tum
+quo-tus
 quo-us-que
+quon-i-am
+quot-an-nis
+quot-e-ni
+quot-en-nis
+quot-i-di-a-nus
+quot-i-ens
+quot-i-es
+quot-i-es-cum-que
+quot-li-bet
 quæs-tor
 re-do-na-re
 re-dor-mi-re
@@ -354,8 +376,8 @@ sem-us-tu-la-tus	% ét
 sep-te-na-ri-um
 si-nus
 sic-cus
-sic-ut
 sic-u-ti
+sic-ut
 so-lem-ni-ta-tem
 som-num
 spec-tant
@@ -415,13 +437,3 @@ vos-met-ip-sos
 Æ-gyp-tum
 æ-qui-tas
 æs-tas
-ex-tin-guo
-ex-tin-gue-re
-ex-tin-guens
-ex-tin-gui-to
-pin-gui
-pin-gui-a
-pin-gue
-nun-ti-ant
-pneu-ma-tis
-fi-ant
