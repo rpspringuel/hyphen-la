@@ -1,4 +1,4 @@
-a-ba-cus
+﻿a-ba-cus
 a-er
 a-gna-sci
 a-gno
@@ -333,12 +333,12 @@ quo-tus
 quo-us-que
 quon-i-am
 quot-an-nis
-quot-e-ni
+quo-te-ni
 quot-en-nis
-quot-i-di-a-nus
-quot-i-ens
-quot-i-es
-quot-i-es-cum-que
+quo-ti-di-a-nus
+quo-ti-ens
+quo-ti-es
+quo-ti-es-cum-que
 quot-li-bet
 quæs-tor
 re-do-na-re
