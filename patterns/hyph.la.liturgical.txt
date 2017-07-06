@@ -755,6 +755,7 @@
 .po2t3e
 .po2t3é
 .pó2t3e
+.po4t3u
 .præ1
 .præ3a2u
 .præ3es
