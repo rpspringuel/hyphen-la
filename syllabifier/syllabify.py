@@ -49,6 +49,9 @@ parser.add_argument('-o', '--output-file', nargs='?', type=argparse.FileType('w'
                     default=sys.stdout, dest='outputfile')
 parser.add_argument('-c', '--hyphen-char', nargs='?',
                     default='-', dest='hyphenchar')
+parser.add_argument('-e', '--end-of-word',
+					help='Add the hyphen character to the end of each word too',
+					action='store_true', dest='endofword')
 
 args = parser.parse_args()
 
@@ -64,7 +67,10 @@ hyphenator = pyphen.Pyphen(filename='../patterns/hyph_la_'+args.mode+'.dic',left
 
 def hyphenate_one_word(word):
 	global hyphenator,args
-	return hyphenator.inserted(word,args.hyphenchar)
+	r = hyphenator.inserted(word,args.hyphenchar)
+	if args.endofword:
+		r+=args.hyphenchar
+	return r
 
 wordregex = re.compile(r'\b[^\W\d_]+\b')
 
