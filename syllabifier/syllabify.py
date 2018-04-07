@@ -34,6 +34,7 @@ import pyphen
 import argparse
 import sys
 import re
+import os
 
 parser = argparse.ArgumentParser(
     				description='A script to "syllabify" (insert a character between all syllables) a file.',formatter_class=argparse.ArgumentDefaultsHelpFormatter)
@@ -60,7 +61,8 @@ if (args.type == 'chant'):
 	lefthyphenmin=1
 	cutvowels = True
 
-hyphenator = pyphen.Pyphen(filename='../patterns/hyph_la_'+args.mode+'.dic',left=lefthyphenmin,right=righthyphenmin)
+dir_path = os.path.dirname(os.path.realpath(__file__))
+hyphenator = pyphen.Pyphen(filename=dir_path+'/../patterns/hyph_la_'+args.mode+'.dic',left=lefthyphenmin,right=righthyphenmin)
 
 def hyphenate_one_word(word):
 	global hyphenator,args
