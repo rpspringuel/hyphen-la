@@ -62,7 +62,6 @@ files.add_argument('filetwo',nargs='?',
 					 help=argparse.SUPPRESS)
 
 args = parser.parse_args()
-print(args)
 
 if (args.inputfile == None or args.inputfile == '-'):
 	if (args.outputfile == None or args.outputfile == '-'):
