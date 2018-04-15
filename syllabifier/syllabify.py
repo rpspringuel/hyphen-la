@@ -48,7 +48,8 @@ parser.add_argument('-i', '--input', nargs='?', type = argparse.FileType('r'),
 					default=sys.stdin, dest='inputfile')
 parser.add_argument('-o', '--output-file', nargs='?', type=argparse.FileType('w'),
                     default=sys.stdout, dest='outputfile')
-parser.add_argument('-c', '--hyphen-char', nargs='?',
+parser.add_argument('-c', '--hyphen-char',
+					help='Character to be used to split the syllables.  Allowed to be a string if enclosed in ""',
                     default='-', dest='hyphenchar')
 parser.add_argument('-e', '--end-of-word',
 					help='Add the hyphen character to the end of each word too',
