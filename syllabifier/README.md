@@ -10,7 +10,7 @@ The script depends on Python 3, and [pyphen](http://pyphen.org/). Note that you 
 
 ## Installation
 
-Fetch the entire repository (`git clone https://github.com/gregorio-project/hyphen-la.git`) and use it directly, no need to install. You can also adapt it to suit your needs, it is less than 50 lines long!
+Fetch the entire repository (`git clone https://github.com/gregorio-project/hyphen-la.git`) and use it directly, no need to install. You can also adapt it to suit your needs.
 
 ## Usage
 
