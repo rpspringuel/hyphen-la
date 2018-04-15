@@ -38,11 +38,11 @@ import os
 
 parser = argparse.ArgumentParser(
     				description='A script to "syllabify" (insert a character between all syllables) a file.',formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-parser.add_argument('-t', '--text-type',
-                    help='text type (chant or prose)',
+parser.add_argument('-t', '--text-type', choices = ['chant', 'prose'],
+                    help='text type',
                     default='chant', dest='type')
-parser.add_argument('-m', '--hyphen-mode',
-                    help='Hyphenation mode (liturgical, phonetic or etymology)',
+parser.add_argument('-m', '--hyphen-mode', choices = ['liturgical', 'phonetic', 'etymology'],
+                    help='Hyphenation mode',
                     default='liturgical', dest='mode')
 parser.add_argument('-i', '--input', nargs='?', type = argparse.FileType('r'),
 					default=sys.stdin, dest='inputfile')
