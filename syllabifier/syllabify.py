@@ -44,18 +44,78 @@ parser.add_argument('-t', '--text-type', choices = ['chant', 'prose'],
 parser.add_argument('-m', '--hyphen-mode', choices = ['liturgical', 'phonetic', 'etymology'],
                     help='Hyphenation mode',
                     default='liturgical', dest='mode')
-parser.add_argument('-i', '--input', nargs='?', type = argparse.FileType('r'),
-					default=sys.stdin, dest='inputfile')
-parser.add_argument('-o', '--output-file', nargs='?', type=argparse.FileType('w'),
-                    default=sys.stdout, dest='outputfile')
 parser.add_argument('-c', '--hyphen-char',
 					help='Character to be used to split the syllables.  Allowed to be a string if enclosed in ""',
                     default='-', dest='hyphenchar')
 parser.add_argument('-e', '--end-of-word',
 					help='Add the hyphen character to the end of each word too',
 					action='store_true', dest='endofword')
+files = parser.add_argument_group('file arguments:',description='These arguments can also be provided as postional arguments, in which case the input file comes first.')
+files.add_argument('-i', '--input', nargs='?',
+					help='Source of the words to be syllabified.  If None or -, then input will be read from stdin.',
+					dest='inputfile')
+files.add_argument('-o', '--output-file', nargs='?',
+					help='Destination of the syllabified words.  If None or -, then ouput will be written to stdout.',
+                    dest='outputfile')
+files.add_argument('fileone',nargs='?',
+					 help=argparse.SUPPRESS)
+files.add_argument('filetwo',nargs='?',
+					 help=argparse.SUPPRESS)
 
 args = parser.parse_args()
+
+if (args.inputfile == None or args.inputfile == '-'):
+	if (args.outputfile == None or args.outputfile == '-'):
+		if (args.fileone == None or args.fileone == '-') and (args.filetwo == None or args.filetwo == '-'):
+			input = sys.stdin
+			output = sys.stdout
+		elif args.fileone != None and (args.filetwo == None or args.filetwo == '-'):
+			try:
+				input = open(args.fileone,'r')
+				output = sys.stdout
+			except:
+				input = sys.stdin
+				output = open(args.fileone,'w')
+		else:
+			input = open(args.fileone,'r')
+			output = open(args.filetwo,'w')
+	else:
+		if (args.fileone == None or args.fileone == '-') and (args.filetwo == None or args.filetwo == '-'):
+			input = sys.stdin
+			output = open(args.outputfile,'w')
+		elif args.fileone != None and (args.filetwo == None or args.filetwo == '-'):
+			input = open(args.fileone,'r')
+			output = open(args.outputfile,'w')
+		else:
+			print("Error: too many files")
+			print("Both -o and positional output file given")
+			sys.exit(1)
+else:
+	if (args.outputfile == None or args.outputfile == '-'):
+		if (args.fileone == None or args.fileone == '-') and (args.filetwo == None or args.filetwo == '-'):
+			input = open(args.inputfile,'r')
+			output = sys.stdout
+		elif args.fileone != None and (args.filetwo == None or args.filetwo == '-'):
+			input = open(args.inputfile,'r')
+			output = open(args.fileone,'w')
+		else:
+			print("Error: too many files")
+			print("Both -i and positional input file give")
+			sys.exit(1)
+	else:
+		if (args.fileone == None or args.fileone == '-') and (args.filetwo == None or args.filetwo == '-'):
+			input = open(args.inputfile,'r')
+			output = open(args.outputfile,'w')
+		elif args.fileone != None and (args.filetwo == None or args.filetwo == '-'):
+			print("Error: too many files")
+			print("Both -i and -o given with a positional file")
+			sys.exit(1)
+		else:
+			print("Error: too many files")
+			print("Both -i and -o given with positional files")
+			sys.exit(1)
+		
+	
 
 righthyphenmin = 2
 lefthyphenmin = 2
@@ -77,10 +137,10 @@ def hyphenate_one_word(word):
 
 wordregex = re.compile(r'\b[^\W\d_]+\b')
 
-for line in args.inputfile:
+for line in input:
 	line = line.strip()
 	hyphenline = wordregex.sub(lambda match: hyphenate_one_word(match.group(0)), line)
-	args.outputfile.write(hyphenline+'\n')
+	output.write(hyphenline+'\n')
 
-args.inputfile.close()
-args.outputfile.close()
+input.close()
+output.close()
