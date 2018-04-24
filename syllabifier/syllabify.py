@@ -35,21 +35,36 @@ import argparse
 import sys
 import re
 import os
+import configparser
+
+dir_path = os.path.dirname(os.path.realpath(__file__))
+config_file_name = dir_path + '/syllabify.cfg'
+
+config = configparser.ConfigParser()
+config['DEFAULT']['type'] = 'chant'
+config['DEFAULT']['mode'] = 'liturgical'
+config['DEFAULT']['hyphenchar'] = '-'
+config['DEFAULT']['endofword'] = 'False'
+config.read(config_file_name)
 
 parser = argparse.ArgumentParser(
                     description='A script to "syllabify" (insert a character between all syllables) a file.',formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument('-t', '--text-type', choices = ['chant', 'prose'],
                     help='text type',
-                    default='chant', dest='type')
+                    default=config['DEFAULT']['type'], dest='type')
 parser.add_argument('-m', '--hyphen-mode', choices = ['liturgical', 'phonetic', 'etymology'],
                     help='Hyphenation mode',
-                    default='liturgical', dest='mode')
+                    default=config['DEFAULT']['mode'], dest='mode')
 parser.add_argument('-c', '--hyphen-char',
                     help='Character to be used to split the syllables.  Allowed to be a string if enclosed in ""',
-                    default='-', dest='hyphenchar')
+                    default=config['DEFAULT']['hyphenchar'], dest='hyphenchar')
 parser.add_argument('-e', '--end-of-word',
-                    help='Add the hyphen character to the end of each word too',
-                    action='store_true', dest='endofword')
+                    help='Change whether the hyphen character is added to the end of each word too',
+                    action='store_const', dest='endofword',
+                    const=not(config.getboolean('DEFAULT','endofword')),default=config.getboolean('DEFAULT','endofword'))
+parser.add_argument('-d','--store-defaults',
+                    help='Do not syllabify.  Instead store the current options as the new defaults.  If given more than once, reset defaults to factory settings.  WARNING: User must have write access to %s for this option to work.' % dir_path,
+                    action='count', default=argparse.SUPPRESS, dest='defaults')
 files = parser.add_argument_group('file arguments:',description='These arguments can also be provided as postional arguments, in which case the input file comes first.')
 files.add_argument('-i', '--input', nargs='?',
                    help='Source of the words to be syllabified.  If None or -, then input will be read from stdin.',
@@ -63,6 +78,20 @@ files.add_argument('filetwo',nargs='?',
                    help=argparse.SUPPRESS)
 
 args = parser.parse_args()
+
+if getattr(args, 'defaults', 0) == 1:
+    config['DEFAULT']['type'] = args.type
+    config['DEFAULT']['mode'] = args.mode
+    config['DEFAULT']['hyphenchar'] = args.hyphenchar
+    config['DEFAULT']['endofword'] = str(args.endofword)
+    with open(config_file_name, 'w') as configfile:
+        config.write(configfile)
+    print('New defaults stored')
+    sys.exit(0)
+elif getattr(args, 'defaults', 0) > 1:
+    os.remove(config_file_name)
+    print('Defaults reset')
+    sys.exit(0)
 
 if (args.inputfile == None or args.inputfile == '-'):
     if (args.outputfile == None or args.outputfile == '-'):
@@ -125,7 +154,6 @@ if (args.type == 'chant'):
     lefthyphenmin=1
     cutvowels = True
 
-dir_path = os.path.dirname(os.path.realpath(__file__))
 hyphenator = pyphen.Pyphen(filename=dir_path+'/../patterns/hyph_la_'+args.mode+'.dic',left=lefthyphenmin,right=righthyphenmin)
 
 def hyphenate_one_word(word):
