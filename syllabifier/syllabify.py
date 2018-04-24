@@ -52,15 +52,15 @@ parser.add_argument('-e', '--end-of-word',
                     action='store_true', dest='endofword')
 files = parser.add_argument_group('file arguments:',description='These arguments can also be provided as postional arguments, in which case the input file comes first.')
 files.add_argument('-i', '--input', nargs='?',
-                    help='Source of the words to be syllabified.  If None or -, then input will be read from stdin.',
-                    dest='inputfile')
+                   help='Source of the words to be syllabified.  If None or -, then input will be read from stdin.',
+                   dest='inputfile')
 files.add_argument('-o', '--output-file', nargs='?',
-                    help='Destination of the syllabified words.  If None or -, then ouput will be written to stdout.',
-                    dest='outputfile')
+                   help='Destination of the syllabified words.  If None or -, then ouput will be written to stdout.',
+                   dest='outputfile')
 files.add_argument('fileone',nargs='?',
-                     help=argparse.SUPPRESS)
+                   help=argparse.SUPPRESS)
 files.add_argument('filetwo',nargs='?',
-                     help=argparse.SUPPRESS)
+                   help=argparse.SUPPRESS)
 
 args = parser.parse_args()
 
