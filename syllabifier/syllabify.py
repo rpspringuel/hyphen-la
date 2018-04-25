@@ -33,7 +33,7 @@
 import pyphen
 import argparse
 import sys
-import re
+import regex as re
 import os
 import configparser
 
@@ -163,7 +163,7 @@ def hyphenate_one_word(word):
         r+=args.hyphenchar
     return r
 
-wordregex = re.compile(r'\b[^\W\d_]+\b')
+wordregex = re.compile(r'\b[^\W\d_]+\b\p{P}*')
 
 for line in input:
     line = line.strip()
