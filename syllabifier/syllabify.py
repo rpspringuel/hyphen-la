@@ -61,7 +61,7 @@ parser.add_argument('-c', '--hyphen-char',
 parser.add_argument('-e', '--end-of-word',
                     help='Change whether the hyphen character is added to the end of each word too',
                     action='store_const', dest='endofword',
-                    const=not(config.getboolean('DEFAULT','endofword')),default=config.getboolean('DEFAULT','endofword'))
+                    const=(not config.getboolean('DEFAULT','endofword')),default=config.getboolean('DEFAULT','endofword'))
 parser.add_argument('-d','--store-defaults',
                     help='Do not syllabify.  Instead store the current options as the new defaults.  If given more than once, reset defaults to factory settings.  WARNING: User must have write access to %s for this option to work.' % dir_path,
                     action='count', default=argparse.SUPPRESS, dest='defaults')
