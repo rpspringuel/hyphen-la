@@ -94,6 +94,9 @@ abs-ter-re-o
 abs-ti-ne-o
 abs-tra-ho
 abs-tru-do
+abs-tu-lit
+abs-tu-le-runt
+abs-tu-li
 ad
 ad-a-mo
 ad-ap-to
