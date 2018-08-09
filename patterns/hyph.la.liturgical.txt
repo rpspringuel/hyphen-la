@@ -777,6 +777,7 @@
 .præ3s2c
 .præ3s2p
 .præ5s2t
+.prǽ5s2t
 .præte2r1
 .præté2r1
 .primi1
