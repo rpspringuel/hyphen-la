@@ -1698,6 +1698,8 @@ u3is.
 u3it.
 ui2u
 ui4us.
+u4lm
+ú4lm
 ú5o
 u5o.
 uo3u
