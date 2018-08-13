@@ -602,6 +602,7 @@
 .pe4r1ed
 .pe2r1eff
 .pe2r3ég
+.pe2r3eg
 .pe6r3egr
 .pé6r3egr
 .pe2r1el
