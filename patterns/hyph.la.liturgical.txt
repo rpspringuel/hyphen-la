@@ -162,6 +162,7 @@
 .a5s4perg
 .a5s4pern
 .a5s2t
+.á5s2t
 .a5s4tern
 .a5s4tip
 .a5s4tr
