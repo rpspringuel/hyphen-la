@@ -2670,6 +2670,8 @@ pro-stra-vis-set
 pro-stra-vis-ti
 pro-stra-vis-tis
 pro-stra-vit
+pro-stra-ti-o
+pro-stra-tor
 re-cla-mo
 re-cre-a-tus
 re-dam-na
