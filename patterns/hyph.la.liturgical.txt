@@ -245,6 +245,7 @@
 .de1it
 .depe4r5
 .depé4r5
+.dépe4r5
 .de3s2c
 .de3s2p
 .dé3s2p
