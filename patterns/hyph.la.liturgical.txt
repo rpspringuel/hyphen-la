@@ -835,8 +835,8 @@
 .pro5s4tan
 .pro5s4tar
 .pro4s3tit
-.pro4s3tra
-.pro4s3trá
+.pro3s4tra
+.pro3s4trá
 .pro3u
 .pse4udo
 .qua2m3o2b3
