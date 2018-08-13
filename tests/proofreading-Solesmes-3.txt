@@ -2688,6 +2688,17 @@ re-dam-nes
 re-dam-net
 re-dam-no
 re-dam-nor
+re-da-ri-us
+red-a-ni-ma-ti-o
+red-a-ni-mo
+red-ac-ti-o
+red-ac-tus
+red-am-tru-o
+red-ar-des-co
+red-ar-gu-o
+red-ar-gu-ti-o
+red-ar-mo
+red-au-spi-co
 re-du-co
 re-dux
 re-flam-mo
