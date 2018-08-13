@@ -877,8 +877,8 @@
 .re2d1án
 .re2d1ar
 .re2d1ár
-.re2d1arg
-.re2d1árg
+.re3d4ari
+.re3d4ári
 .re2d1a2u
 .re2d1á2u
 .re2d1ea
