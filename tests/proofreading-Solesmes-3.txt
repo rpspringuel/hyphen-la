@@ -1054,6 +1054,12 @@ con-vo-co
 con-vo-lo
 con-vo-mo
 con-vul-ne-ro
+cul-men
+cul-mi-nis
+cul-me-us
+cul-mi-no
+cul-mi-na-re
+cul-mus
 da-i-mon
 de-i-tas
 de-iec-te
