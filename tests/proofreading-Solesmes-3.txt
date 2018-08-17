@@ -5244,3 +5244,17 @@ pseu-dos-ma-rag-dus
 pseu-do-sy-no-dus
 pseu-do-thy-rum
 pseu-do-ur-ba-nus
+præ-ex-cel-lens
+præ-ex-cel-sus
+præ-ex-ci-to
+præ-ex-ci-ta-re
+præ-ex-er-ci-ta-men
+præ-ex-er-ci-ta-men-tum
+præ-ex-er-ci-ta-ti-o
+præ-ex-is-ti-mo
+præ-ex-pen-do
+præ-ex-pen-de-re
+præ-ex-sis-tens
+præ-ex-sis-ten-ti-a
+præ-ex-sis-to
+præ-ex-sis-te-re
