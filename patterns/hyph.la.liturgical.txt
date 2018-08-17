@@ -724,6 +724,7 @@
 .pe3r4ul
 .pe3r4úl
 .pe2r1u2o
+.phe4u
 .pne4u
 .po3et
 .pos4t3ea
