@@ -514,8 +514,8 @@
 .ne2g1ot
 .ne2g1ót
 .ne2u.
-.ne2ut
-.né2ut
+.ne2ur
+.né2ur
 .o2b1
 .ó2b1
 .o3b2ed
