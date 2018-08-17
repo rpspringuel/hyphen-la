@@ -500,6 +500,7 @@
 .l2
 .la4u
 .lecti5s4t
+.le4uc
 .lon2g1an
 .lon2g1án
 .lu4x3q
