@@ -819,8 +819,8 @@
 .pro3s4trá
 .pro3u
 .pse4udo
-.pseudo3s4p%
-.pseudó3s4p%
+.pseudo3s4p
+.pseudó3s4p
 .qua2m3o2b3
 .que2m3a2d3m
 .que2m3á2d3m
