@@ -750,6 +750,8 @@
 .præ1
 .præ3a2u
 .præ3es
+.præe2x1
+.præé2x1
 .præi4a
 .præi4á
 .præi4ec
