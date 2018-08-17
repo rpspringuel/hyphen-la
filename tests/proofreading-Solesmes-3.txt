@@ -4592,8 +4592,8 @@ re-spu-ens
 re-spu-o
 red-au-spi-ca-re
 red-au-spi-co
-red-ex-spec-ta-re
-red-ex-spec-to
+re-ex-spec-ta-re
+re-ex-spec-to
 res-pub-li-ca
 rus-pa-re
 rus-pa-ri
