@@ -33,7 +33,7 @@
 import pyphen
 import argparse
 import sys
-import regex as re
+import re
 import os
 import configparser
 
@@ -156,18 +156,20 @@ if (args.type == 'chant'):
 
 hyphenator = pyphen.Pyphen(filename=dir_path+'/../patterns/hyph_la_'+args.mode+'.dic',left=lefthyphenmin,right=righthyphenmin)
 
-def hyphenate_one_word(word):
+def hyphenate_one_word(word,punctuation):
     global hyphenator,args
     r = hyphenator.inserted(word,args.hyphenchar)
+    r+=punctuation
     if args.endofword:
         r+=args.hyphenchar
     return r
 
-wordregex = re.compile(r'\b[^\W\d_]+\b\p{P}*')
+wordregex = re.compile(r'\b([^\W\d_]+)\b([\-‐‑‒–—)\]}〉»’”›!"\'*,.:;?†⁓⁕⁜~+✝✠]*)')
+
 
 for line in input:
     line = line.strip()
-    hyphenline = wordregex.sub(lambda match: hyphenate_one_word(match.group(0)), line)
+    hyphenline = wordregex.sub(lambda match: hyphenate_one_word(match.group(1),match.group(2)), line)
     output.write(hyphenline+'\n')
 
 input.close()
